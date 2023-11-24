@@ -1,0 +1,4465 @@
+{
+    "yes": {
+        "message": "有"
+    },
+    "no": {
+        "message": "是"
+    },
+    "aboutCategory": {
+        "message": "关于 RES"
+    },
+    "myAccountCategory": {
+        "message": "我的帐户"
+    },
+    "usersCategory": {
+        "message": "用户"
+    },
+    "commentsCategory": {
+        "message": "评论"
+    },
+    "submissionsCategory": {
+        "message": "投稿"
+    },
+    "subredditsCategory": {
+        "message": "子论坛"
+    },
+    "appearanceCategory": {
+        "message": "外观"
+    },
+    "browsingCategory": {
+        "message": "浏览"
+    },
+    "productivityCategory": {
+        "message": "生产力"
+    },
+    "coreCategory": {
+        "message": "核心"
+    },
+    "moduleID": {
+        "message": "模块 ID"
+    },
+    "optionKey": {
+        "message": "选项 ID"
+    },
+    "aboutName": {
+        "message": "关于 RES"
+    },
+    "aboutDesc": {
+        "message": "Reddit Enhancement Suite 是一个模块集合，可让浏览 reddit 变得更轻松。"
+    },
+    "aboutOptionsPresetsTitle": {
+        "message": "预设"
+    },
+    "aboutOptionsPresets": {
+        "message": "使用各种预设快速定制 RES。"
+    },
+    "aboutOptionsBackupTitle": {
+        "message": "备份"
+    },
+    "aboutOptionsBackup": {
+        "message": "备份（导出）和恢复（导入）您的 RES 设置。"
+    },
+    "aboutOptionsSearchSettingsTitle": {
+        "message": "搜索设置"
+    },
+    "aboutOptionsSearchSettings": {
+        "message": "查找 RES 设置。"
+    },
+    "aboutOptionsAnnouncementsTitle": {
+        "message": "公告"
+    },
+    "aboutOptionsAnnouncements": {
+        "message": "在 /r/RESAnnouncements 阅读最新信息。"
+    },
+    "aboutOptionsDonateTitle": {
+        "message": "捐赠"
+    },
+    "aboutOptionsDonate": {
+        "message": "支持 RES 的进一步发展。"
+    },
+    "aboutOptionsBugsTitle": {
+        "message": "错误"
+    },
+    "aboutOptionsBugs": {
+        "message": "如果有问题，请访问 /r/RESissues 寻求帮助。"
+    },
+    "aboutOptionsSuggestionsTitle": {
+        "message": "建议"
+    },
+    "aboutOptionsSuggestions": {
+        "message": "如果您对 RES 有想法或想与其他用户交流，请访问 /r/Enhancement。"
+    },
+    "aboutOptionsFAQTitle": {
+        "message": "常见问题"
+    },
+    "aboutOptionsFAQ": {
+        "message": "在 /r/Enhancement wiki 上了解有关 RES 的更多信息。"
+    },
+    "aboutOptionsCodeTitle": {
+        "message": "代码"
+    },
+    "aboutOptionsCode": {
+        "message": "您可以用自己的代码、设计和想法改进 RES！RES 是 GitHub 上的一个开源项目。"
+    },
+    "aboutOptionsContributorsTitle": {
+        "message": "贡献者"
+    },
+    "aboutOptionsContributors": {
+        "message": "[Steve Sobel](http://www.honestbleeps.com/) (/u/honestbleeps) 和许多社区成员都为 RES 贡献了代码、设计和/或好点子。"
+    },
+    "aboutOptionsPrivacyTitle": {
+        "message": "隐私政策"
+    },
+    "aboutOptionsPrivacy": {
+        "message": "阅读 RES 的隐私政策。"
+    },
+    "aboutOptionsLicenseTitle": {
+        "message": "许可证"
+    },
+    "aboutOptionsLicense": {
+        "message": "Reddit Enhancement Suite 采用 GPL v3.0 许可发布。"
+    },
+    "accountSwitcherName": {
+        "message": "账户切换器"
+    },
+    "accountSwitcherDesc": {
+        "message": "存储用户名/密码对，并在浏览 Reddit 时即时切换账户！"
+    },
+    "accountSwitcherAddAccount": {
+        "message": ""
+    },
+    "accountSwitcherUsername": {
+        "message": "如果忘记了存储在账户切换器中的密码，[可以通过 RES 设置恢复密码](/r/Enhancement/wiki/faq/passwords)。请注意，RES 对存储密码的保护非常有限，因此在共享计算机或设置时一定要小心！"
+    },
+    "accountSwitcherPassword": {
+        "message": ""
+    },
+    "accountSwitcherRequiresOtp": {
+        "message": "将密码框留空，以便每次切换到该账户时都会提示输入密码。"
+    },
+    "accountSwitcherSnoo": {
+        "message": "+add 帐户"
+    },
+    "accountSwitcherSimpleArrow": {
+        "message": "用户名"
+    },
+    "accountSwitcherCliHelp": {
+        "message": "密码"
+    },
+    "accountSwitcherCliSwitchToUsernamePrompt": {
+        "message": "需要 OTP（已启用 2FA）"
+    },
+    "accountSwitcherGoldUntil": {
+        "message": "斯诺",
+        "description": "如 \"直到 2016-01-01（1 个月）\"。"
+    },
+    "accountSwitcherAccountSwitchError": {
+        "message": "简单箭头"
+    },
+    "accountSwitcherLoginError": {
+        "message": "将用户切换到 [用户名］"
+    },
+    "accountSwitcherRateLimitError": {
+        "message": "切换到用户名："
+    },
+    "accountSwitcherUnknownError": {
+        "message": "直到 $1 ($2)"
+    },
+    "accountSwitcherOTPError": {
+        "message": "无法切换账户。Reddit 可能负载过重。请稍后再试。"
+    },
+    "accountSwitcherReload": {
+        "message": "由于用户名或密码错误，无法以 $1 登录。"
+    },
+    "accountSwitcherDraft": {
+        "message": ""
+    },
+    "accountSwitcherUserSwitched": {
+        "message": "请检查您的设置？"
+    },
+    "accountSwitcherLoggedOut": {
+        "message": "无法以 1 美元的身份登录，是因为 Reddit 收到的请求太多太快。"
+    },
+    "announcementsName": {
+        "message": ""
+    },
+    "announcementsDesc": {
+        "message": "也许您尝试使用错误的用户名或密码登录？"
+    },
+    "announcementsNewPost": {
+        "message": ""
+    },
+    "announcementsNewPostByUser": {
+        "message": "检查您的设置？"
+    },
+    "announcementsMarkAsRead": {
+        "message": "由于未知错误，无法以 1 美元的身份登录：2 美元"
+    },
+    "backupName": {
+        "message": ""
+    },
+    "backupDesc": {
+        "message": "检查您的设置？"
+    },
+    "betteRedditName": {
+        "message": "由于一次性密码无效，无法以 $1 登录。"
+    },
+    "betteRedditDesc": {
+        "message": ""
+    },
+    "commandLineName": {
+        "message": "检查您的设置？"
+    },
+    "commandLineDesc": {
+        "message": "重新加载"
+    },
+    "commentDepthName": {
+        "message": "但是，您还没有以 /u/$1 的身份在本页发帖。"
+    },
+    "commentDepthDesc": {
+        "message": "您已切换到 /u/$1。"
+    },
+    "commentHidePerName": {
+        "message": "您已注销。"
+    },
+    "commentHidePerDesc": {
+        "message": "RES 公告"
+    },
+    "commentNavName": {
+        "message": "了解重要新闻。"
+    },
+    "commentNavDesc": {
+        "message": "已有新帖发布到 /r/$1"
+    },
+    "commentNavigatorShowByDefaultTitle": {
+        "message": "/u/$2 已在 /r/$1 上发表了一篇新帖"
+    },
+    "commentNavigatorShowByDefaultDesc": {
+        "message": "标记为已读"
+    },
+    "commentNavigatorShowOnKeyboardMoveTitle": {
+        "message": "备份与还原"
+    },
+    "commentNavigatorShowOnKeyboardMoveDesc": {
+        "message": "备份（导出）和还原（导入）你的 Reddit Enhancement Suite 设置。"
+    },
+    "commentNavigatorSkipReadCommentsTitle": {
+        "message": "betteReddit"
+    },
+    "commentNavigatorSkipReadCommentsDesc": {
+        "message": "为 Reddit 添加大量界面增强功能，如 \"完整评论 \"链接、解除意外隐藏帖子的功能等。"
+    },
+    "commentNavigatorOpenOnHighlightUserTitle": {
+        "message": "RES 命令行"
+    },
+    "commentNavigatorOpenOnHighlightUserDesc": {
+        "message": "用于导航 reddit、切换 RES 设置和调试 RES 的命令行。"
+    },
+    "commentNavigatorPopularConditionsTitle": {
+        "message": "自定义评论深度"
+    },
+    "commentNavigatorPopularConditionsDesc": {
+        "message": "允许你设置点击评论链接时希望看到的评论深度。"
+    },
+    "commentPrevName": {
+        "message": ""
+    },
+    "commentPrevDesc": {
+        "message": "0 = 所有内容，1 = 根级别，2 = 对根级别的回复，3 = 对根级别的回复的回复等。"
+    },
+    "commentQuickCollapseName": {
+        "message": "评论隐藏持久器"
+    },
+    "commentQuickCollapseDesc": {
+        "message": "保存页面浏览时隐藏的评论状态。"
+    },
+    "hideCommentsOnHeaderDoubleClickDesc": {
+        "message": "评论导航器"
+    },
+    "hideCommentsOnHeaderDoubleClickTitle": {
+        "message": "提供一个评论导航工具，可按 OP、MOD 等轻松查找评论。"
+    },
+    "commentStyleName": {
+        "message": "默认显示"
+    },
+    "commentStyleDesc": {
+        "message": "默认显示评论导航器。"
+    },
+    "commentToolsName": {
+        "message": "键盘移动时显示"
+    },
+    "commentToolsDesc": {
+        "message": "使用键盘快捷键（Shift + ↓ 或 Shift + ↑）导航时显示评论导航界面。"
+    },
+    "contextName": {
+        "message": "跳过已读评论"
+    },
+    "contextDesc": {
+        "message": "防止导航到已读评论。"
+    },
+    "contributeName": {
+        "message": "突出显示用户时打开"
+    },
+    "contributeDesc": {
+        "message": "高亮显示用户时显示评论导航器。"
+    },
+    "customTogglesName": {
+        "message": "热门条件"
+    },
+    "customTogglesDesc": {
+        "message": "按热门条件导航时，评论将根据这些条件进行过滤。"
+    },
+    "dashboardName": {
+        "message": "实时预览"
+    },
+    "dashboardDesc": {
+        "message": "在编辑评论、提交的文本、消息、维基页面和其他标记符文本区域时提供实时预览；以及用于书写文本墙的双栏编辑器。"
+    },
+    "easterEggName": {
+        "message": "评论快速折叠"
+    },
+    "easterEggDesc": {
+        "message": "双击标题时切换评论折叠。"
+    },
+    "autoHideName": {
+        "message": "双击标题时切换评论折叠。"
+    },
+    "autoHideDesc": {
+        "message": "双击标题时隐藏评论"
+    },
+    "autoHideMustBeVisibleDurationTitle": {
+        "message": "评论样式"
+    },
+    "autoHideMustBeVisibleDurationDesc": {
+        "message": "为评论添加可读性增强功能。"
+    },
+    "autoHideTypesTitle": {
+        "message": "编辑工具"
+    },
+    "autoHideTypesDesc": {
+        "message": "为撰写评论、文本帖子、维基页面和其他标记文本区域提供工具和快捷方式。"
+    },
+    "filteRedditName": {
+        "message": "上下文"
+    },
+    "filteRedditDesc": {
+        "message": "为黄色信息栏添加一个链接，以便在完整上下文中查看深度链接的评论。"
+    },
+    "hideChildCommentsName": {
+        "message": "捐赠和贡献"
+    },
+    "hideChildCommentsDesc": {
+        "message": "RES 完全免费--如果您喜欢我们的工作，我们将不胜感激。"
+    },
+    "hideChildCommentsAutomaticTitle": {
+        "message": ""
+    },
+    "hideChildCommentsAutomaticDesc": {
+        "message": "如果您想为 RES 捐款，请访问我们的 [捐款页面](https://redditenhancementsuite.com/contribute/)。"
+    },
+    "hideChildCommentsNestedTitle": {
+        "message": ""
+    },
+    "hideChildCommentsNestedDesc": {
+        "message": "没有钱？写几行代码如何？您可以在我们的 [Github 页面](https://github.com/honestbleeps/Reddit-Enhancement-Suite/) 上查看我们的源代码。"
+    },
+    "hideChildCommentsHideNestedTitle": {
+        "message": "自定义开关"
+    },
+    "hideChildCommentsHideNestedDesc": {
+        "message": "为 RES 的各个部分设置自定义开关。"
+    },
+    "hideChildCommentsShowAllLinkLabel": {
+        "message": "RES 控制面板"
+    },
+    "hideChildCommentsHideAllLinkLabel": {
+        "message": "RES 控制面板有许多功能，包括小部件和其他有用工具。"
+    },
+    "hideChildCommentsShowLinkLabel": {
+        "message": "复活节彩蛋"
+    },
+    "hideChildCommentsHideLinkLabel": {
+        "message": "↑ ↓ ↓ ← → ← → b a."
+    },
+    "hoverName": {
+        "message": "自动隐藏"
+    },
+    "hoverDesc": {
+        "message": "自动隐藏已查看的链接文章或评论。要隐藏评论，请确保模块 [readComments](#res:settings/readComments) 已启用。"
+    },
+    "hoverInstancesTitle": {
+        "message": "必须可见持续时间"
+    },
+    "hoverInstancesDesc": {
+        "message": "帖子必须被查看多长时间后才会被隐藏（毫秒）？"
+    },
+    "hoverInstancesName": {
+        "message": "类型"
+    },
+    "hoverInstancesEnabled": {
+        "message": "限制隐藏的帖子类型。"
+    },
+    "hoverOpenDelayTitle": {
+        "message": "过滤"
+    },
+    "hoverOpenDelayDesc": {
+        "message": "过滤掉 NSFW 内容，或按关键字、域名或子红帖（针对 /r/all 或 /domain/*）过滤掉链接。"
+    },
+    "hoverFadeDelayTitle": {
+        "message": ""
+    },
+    "hoverFadeDelayDesc": {
+        "message": "文本框中允许使用 `/（这个|那个|另一个）/i`之类的 RegExp。更多信息，请访问 [/r/Enhancement wiki](/r/Enhancement/wiki/index/filters/filtereddit/regexp)."
+    },
+    "hoverFadeSpeedTitle": {
+        "message": "隐藏所有子评论"
+    },
+    "hoverFadeSpeedDesc": {
+        "message": "允许隐藏子评论。"
+    },
+    "hoverWidthTitle": {
+        "message": "自动"
+    },
+    "hoverWidthDesc": {
+        "message": "自动隐藏除父评论外的所有评论，还是提供一个链接来隐藏所有评论？"
+    },
+    "hoverCloseOnMouseOutTitle": {
+        "message": "嵌套"
+    },
+    "hoverCloseOnMouseOutDesc": {
+        "message": "将 \"隐藏子评论 \"按钮添加到所有有子评论的评论中，而不仅仅是顶层评论。"
+    },
+    "keyboardNavName": {
+        "message": "隐藏嵌套"
+    },
+    "keyboardNavDesc": {
+        "message": "在隐藏所有子评论时隐藏嵌套评论的子评论。"
+    },
+    "disableChatName": {
+        "message": "显示所有子评论"
+    },
+    "disableChatDesc": {
+        "message": "隐藏所有子评论"
+    },
+    "showImagesMediaBrowseTitle": {
+        "message": "显示 $1 条子评论"
+    },
+    "showImagesMediaBrowseDesc": {
+        "message": "隐藏子评论"
+    },
+    "keyboardNavScrollOnExpandoTitle": {
+        "message": "RES 弹出窗口悬停"
+    },
+    "keyboardNavScrollOnExpandoDesc": {
+        "message": "自定义将鼠标悬停在某些元素上时出现的大型信息弹出窗口的行为。"
+    },
+    "keyboardNavLinearScrollStyleTitle": {
+        "message": "实例"
+    },
+    "keyboardNavLinearScrollStyleDesc": {
+        "message": "管理特定弹出窗口"
+    },
+    "keyboardNavNonLinearScrollStyleTitle": {
+        "message": "名称"
+    },
+    "keyboardNavNonLinearScrollStyleDesc": {
+        "message": "启用"
+    },
+    "keyboardNavLinkNumbersTitle": {
+        "message": "打开延迟"
+    },
+    "keyboardNavLinkNumbersDesc": {
+        "message": "鼠标移动到弹出窗口打开之间的默认延迟。"
+    },
+    "keyboardNavLinkNumberPositionTitle": {
+        "message": "淡出延迟"
+    },
+    "keyboardNavLinkNumberPositionDesc": {
+        "message": "鼠标移出后弹出窗口淡出前的默认延迟。"
+    },
+    "keyboardNavLinkToggleExpandoTitle": {
+        "message": "渐变速度"
+    },
+    "keyboardNavLinkToggleExpandoDesc": {
+        "message": "渐变速度（秒）。"
+    },
+    "keyboardNavLinkNumberAltModeModifierTitle": {
+        "message": "宽度"
+    },
+    "keyboardNavLinkNumberAltModeModifierDesc": {
+        "message": "默认弹出窗口宽度。"
+    },
+    "keyboardNavLinkNewTabTitle": {
+        "message": "鼠标移出时关闭"
+    },
+    "keyboardNavLinkNewTabDesc": {
+        "message": "除关闭按钮外，是否在鼠标移出时关闭弹出窗口。"
+    },
+    "keyboardNavOnHideMoveDownTitle": {
+        "message": "键盘导航"
+    },
+    "keyboardNavOnHideMoveDownDesc": {
+        "message": "reddit 的键盘导航！"
+    },
+    "keyboardNavOnVoteMoveDownTitle": {
+        "message": "禁用聊天"
+    },
+    "keyboardNavOnVoteMoveDownDesc": {
+        "message": "阻止 Reddit 聊天运行，提高页面加载速度。"
+    },
+    "keyboardNavOnVoteCommentMoveDownTitle": {
+        "message": "媒体浏览"
+    },
+    "keyboardNavOnVoteCommentMoveDownDesc": {
+        "message": "当上下移动一篇文章时，如果当前所选文章中的媒体已打开，则在下一篇文章中打开媒体。"
+    },
+    "keyboardNavUseGoModeTitle": {
+        "message": "展开时滚动"
+    },
+    "keyboardNavUseGoModeDesc": {
+        "message": "使用展开键时，将窗口滚动到链接顶部（以保持图片等在视图中）。"
+    },
+    "keyboardNavFollowLinkNewTabFocusTitle": {
+        "message": "线性滚动样式"
+    },
+    "keyboardNavFollowLinkNewTabFocusDesc": {
+        "message": "使用 keynav 上/下移动时，RES 应在何时以何种方式滚动窗口？"
+    },
+    "keyboardNavToggleHelpTitle": {
+        "message": ""
+    },
+    "keyboardNavToggleHelpDesc": {
+        "message": "**定向**： 如果所选元素不在屏幕上，则滚动到足以让所选元素进入视图即可。"
+    },
+    "keyboardNavToggleCmdLineTitle": {
+        "message": ""
+    },
+    "keyboardNavToggleCmdLineDesc": {
+        "message": "**上下翻页**： 在到达顶部或底部后，向上/向下滚动整个页面。"
+    },
+    "keyboardNavEnterFilterCommandLineTitle": {
+        "message": ""
+    },
+    "keyboardNavEnterFilterCommandLineDesc": {
+        "message": "**锁定到顶部**： 始终将所选元素对齐屏幕顶部。"
+    },
+    "keyboardNavHideTitle": {
+        "message": ""
+    },
+    "keyboardNavHideDesc": {
+        "message": "**中间**： 滚动到所选元素刚好位于视口的中间位置。"
+    },
+    "keyboardNavMoveUpTitle": {
+        "message": ""
+    },
+    "keyboardNavMoveUpDesc": {
+        "message": "**采用顶部**： 重复使用上一个选定元素的对齐方式。"
+    },
+    "keyboardNavMoveDownTitle": {
+        "message": ""
+    },
+    "keyboardNavMoveDownDesc": {
+        "message": "**传统**： 如果元素在屏幕外，则锁定到顶部。"
+    },
+    "keyboardNavMoveUpCommentTitle": {
+        "message": "非线性滚动样式"
+    },
+    "keyboardNavMoveUpCommentDesc": {
+        "message": "当跳转到一个条目（moveUpThread/moveDownThread、moveUpSibling/moveDownSibling、moveToParent 和 moveDownParentSibling）时，RES 应在何时以及如何滚动窗口？"
+    },
+    "keyboardNavMoveDownCommentTitle": {
+        "message": "链接数字"
+    },
+    "keyboardNavMoveDownCommentDesc": {
+        "message": "为选定条目中的链接指定数字键（如 [1]）。"
+    },
+    "keyboardNavMoveTopTitle": {
+        "message": "链接编号位置"
+    },
+    "keyboardNavMoveTopDesc": {
+        "message": "链接编号显示在哪一侧。"
+    },
+    "keyboardNavMoveBottomTitle": {
+        "message": "链接切换展开"
+    },
+    "keyboardNavMoveBottomDesc": {
+        "message": "当链接有展开图时，切换展开图而不是打开链接。Alt 模式会反转此操作。"
+    },
+    "keyboardNavMoveUpSiblingTitle": {
+        "message": "Alt 模式修改器"
+    },
+    "keyboardNavMoveUpSiblingDesc": {
+        "message": "用于反转切换展开图/打开链接操作的修改器。"
+    },
+    "keyboardNavMoveDownSiblingTitle": {
+        "message": "注释链接新标签页"
+    },
+    "keyboardNavMoveDownSiblingDesc": {
+        "message": "在新标签页中打开数字键链接。"
+    },
+    "keyboardNavMoveDownParentSiblingTitle": {
+        "message": "隐藏时向下移动"
+    },
+    "keyboardNavMoveDownParentSiblingDesc": {
+        "message": "隐藏链接后，自动选择下一个链接。"
+    },
+    "keyboardNavMoveUpThreadTitle": {
+        "message": "投票时下移"
+    },
+    "keyboardNavMoveUpThreadDesc": {
+        "message": "对链接投票后，自动选择下一个链接。"
+    },
+    "keyboardNavMoveDownThreadTitle": {
+        "message": "在 \"评论投票 \"下移"
+    },
+    "keyboardNavMoveDownThreadDesc": {
+        "message": "对评论投票后，自动选择下一条评论。"
+    },
+    "keyboardNavMoveToTopCommentTitle": {
+        "message": "使用转到模式"
+    },
+    "keyboardNavMoveToTopCommentDesc": {
+        "message": "要求在使用 \"转到 \"快捷键前启动转到模式。"
+    },
+    "keyboardNavMoveToParentTitle": {
+        "message": "关注链接新标签页焦点"
+    },
+    "keyboardNavMoveToParentDesc": {
+        "message": "在新标签页中跟随链接时--聚焦标签页？"
+    },
+    "keyboardNavUndoMoveTitle": {
+        "message": "切换帮助"
+    },
+    "keyboardNavUndoMoveDesc": {
+        "message": "显示键盘快捷键的帮助。"
+    },
+    "keyboardNavShowParentsTitle": {
+        "message": "切换命令行"
+    },
+    "keyboardNavShowParentsDesc": {
+        "message": "启动 RES 命令行。"
+    },
+    "keyboardNavFollowLinkTitle": {
+        "message": "输入过滤命令行"
+    },
+    "keyboardNavFollowLinkDesc": {
+        "message": "启动过滤器命令行。"
+    },
+    "keyboardNavFollowLinkNewTabTitle": {
+        "message": "隐藏"
+    },
+    "keyboardNavFollowLinkNewTabDesc": {
+        "message": "隐藏链接。"
+    },
+    "keyboardNavToggleExpandoTitle": {
+        "message": "上移"
+    },
+    "keyboardNavToggleExpandoDesc": {
+        "message": "上移到平面列表中的前一个链接或注释。"
+    },
+    "keyboardNavImageSizeUpTitle": {
+        "message": "下移"
+    },
+    "keyboardNavImageSizeUpDesc": {
+        "message": "下移到平面列表中的下一个链接或评论。"
+    },
+    "keyboardNavImageSizeDownTitle": {
+        "message": "上移评论"
+    },
+    "keyboardNavImageSizeDownDesc": {
+        "message": "上移至线程评论页面中的上一条评论。"
+    },
+    "keyboardNavImageSizeUpFineTitle": {
+        "message": "下移评论"
+    },
+    "keyboardNavImageSizeUpFineDesc": {
+        "message": "下移至线程评论页面中的下一条评论。"
+    },
+    "keyboardNavImageSizeDownFineTitle": {
+        "message": "移到顶部"
+    },
+    "keyboardNavImageSizeDownFineDesc": {
+        "message": "移至列表顶部（在链接页面）。"
+    },
+    "keyboardNavImageSizeAnyHeightTitle": {
+        "message": "移至底部"
+    },
+    "keyboardNavImageSizeAnyHeightDesc": {
+        "message": "移至列表底部（在链接页面）。"
+    },
+    "keyboardNavImageMoveUpTitle": {
+        "message": "上移至同胞"
+    },
+    "keyboardNavImageMoveUpDesc": {
+        "message": "移动到上一个同胞（在注释中）-- 跳转到同一深度的上一个同胞。"
+    },
+    "keyboardNavImageMoveDownTitle": {
+        "message": "下移同胞"
+    },
+    "keyboardNavImageMoveDownDesc": {
+        "message": "移动到下一个同胞（在注释中）-- 跳转到相同深度的下一个同胞。"
+    },
+    "keyboardNavImageMoveLeftTitle": {
+        "message": "下移至父代同胞"
+    },
+    "keyboardNavImageMoveLeftDesc": {
+        "message": "移动到父代的下一个同胞（在注释中）。"
+    },
+    "keyboardNavImageMoveRightTitle": {
+        "message": "上移线程"
+    },
+    "keyboardNavImageMoveRightDesc": {
+        "message": "移动到上一个主题的最顶部评论（在评论中）。"
+    },
+    "keyboardNavPreviousGalleryImageTitle": {
+        "message": "下移线程"
+    },
+    "keyboardNavPreviousGalleryImageDesc": {
+        "message": "移至下一个主题的最顶部评论（在评论中）。"
+    },
+    "keyboardNavNextGalleryImageTitle": {
+        "message": "移至置顶评论"
+    },
+    "keyboardNavNextGalleryImageDesc": {
+        "message": "移至当前主题的最顶部评论（在评论中）。"
+    },
+    "keyboardNavScrollOnGalleryNavigateTitle": {
+        "message": "移至父主题"
+    },
+    "keyboardNavScrollOnGalleryNavigateDesc": {
+        "message": "移至父主题（在评论中）。"
+    },
+    "keyboardNavToggleViewImagesTitle": {
+        "message": "撤销移动"
+    },
+    "keyboardNavToggleViewImagesDesc": {
+        "message": "移至之前选中的内容。"
+    },
+    "keyboardNavToggleChildrenTitle": {
+        "message": "显示父评论"
+    },
+    "keyboardNavToggleChildrenDesc": {
+        "message": "显示父代评论。"
+    },
+    "keyboardNavFollowCommentsTitle": {
+        "message": "跟随链接"
+    },
+    "keyboardNavFollowCommentsDesc": {
+        "message": "关注链接（仅限链接页面）。"
+    },
+    "keyboardNavFollowCommentsNewTabTitle": {
+        "message": "在新标签页中跟随链接"
+    },
+    "keyboardNavFollowCommentsNewTabDesc": {
+        "message": "在新标签页中关注链接（仅限链接页面）。"
+    },
+    "keyboardNavFollowLinkAndCommentsNewTabTitle": {
+        "message": "切换展开"
+    },
+    "keyboardNavFollowLinkAndCommentsNewTabDesc": {
+        "message": "切换展开（图像/文本/视频）。"
+    },
+    "keyboardNavFollowLinkAndCommentsNewTabBGTitle": {
+        "message": "放大图片"
+    },
+    "keyboardNavFollowLinkAndCommentsNewTabBGDesc": {
+        "message": "增大突出显示的帖子区域中的图片大小。"
+    },
+    "keyboardNavUpVoteTitle": {
+        "message": "缩小图片大小"
+    },
+    "keyboardNavUpVoteDesc": {
+        "message": "减小突出显示的帖子区域中的图片大小。"
+    },
+    "keyboardNavDownVoteTitle": {
+        "message": "放大图片"
+    },
+    "keyboardNavDownVoteDesc": {
+        "message": "增大突出显示的文章区域中的图像大小（更精细的控制）。"
+    },
+    "keyboardNavUpVoteWithoutTogglingTitle": {
+        "message": "缩小图像尺寸"
+    },
+    "keyboardNavUpVoteWithoutTogglingDesc": {
+        "message": "减小突出显示的帖子区域中的图片大小（更精细的控制）。"
+    },
+    "keyboardNavDownVoteWithoutTogglingTitle": {
+        "message": "图像大小任意高度"
+    },
+    "keyboardNavDownVoteWithoutTogglingDesc": {
+        "message": "取消突出显示的文章区域中图像的高度限制。"
+    },
+    "keyboardNavSavePostTitle": {
+        "message": "图像上移"
+    },
+    "keyboardNavSavePostDesc": {
+        "message": "将突出显示的帖子区域中的图片上移。"
+    },
+    "keyboardNavSaveCommentTitle": {
+        "message": "图像下移"
+    },
+    "keyboardNavSaveCommentDesc": {
+        "message": "下移突出显示的帖子区域中的图片。"
+    },
+    "keyboardNavSaveRESTitle": {
+        "message": "图像左移"
+    },
+    "keyboardNavSaveRESDesc": {
+        "message": "将突出显示的帖子区域中的图片向左移动。"
+    },
+    "keyboardNavReplyTitle": {
+        "message": "图像右移"
+    },
+    "keyboardNavReplyDesc": {
+        "message": "将突出显示的帖子区域中的图片向右移动。"
+    },
+    "keyboardNavEditTitle": {
+        "message": "上一个图库图像"
+    },
+    "keyboardNavEditDesc": {
+        "message": "查看内联图库的上一张图片。"
+    },
+    "keyboardNavShowChildCommentsTitle": {
+        "message": "下一个图库图像"
+    },
+    "keyboardNavShowChildCommentsDesc": {
+        "message": "查看内联图库的下一张图片。"
+    },
+    "keyboardNavShowAllChildCommentsTitle": {
+        "message": "滚动到图库图片"
+    },
+    "keyboardNavShowAllChildCommentsDesc": {
+        "message": "使用键盘浏览时，将窗口滚动到图库图像的顶部。"
+    },
+    "keyboardNavFollowPermalinkTitle": {
+        "message": "切换查看图像"
+    },
+    "keyboardNavFollowPermalinkDesc": {
+        "message": "切换 \"显示图片 \"按钮。"
+    },
+    "keyboardNavFollowPermalinkNewTabTitle": {
+        "message": "切换儿童"
+    },
+    "keyboardNavFollowPermalinkNewTabDesc": {
+        "message": "展开/折叠评论（仅限评论页面）。"
+    },
+    "keyboardNavFollowSubredditTitle": {
+        "message": "关注评论"
+    },
+    "keyboardNavFollowSubredditDesc": {
+        "message": "查看链接的评论（移至新标签页打开）。"
+    },
+    "keyboardNavFollowSubredditNewTabTitle": {
+        "message": "关注评论新标签页"
+    },
+    "keyboardNavFollowSubredditNewTabDesc": {
+        "message": "在新标签页中查看链接评论。"
+    },
+    "keyboardNavFollowProfileTitle": {
+        "message": "关注链接和评论新标签页"
+    },
+    "keyboardNavFollowProfileDesc": {
+        "message": "在新标签页中查看链接和评论。"
+    },
+    "keyboardNavFollowProfileNewTabTitle": {
+        "message": "关注链接和评论新标签页 BG"
+    },
+    "keyboardNavFollowProfileNewTabDesc": {
+        "message": "在新的背景标签页中查看链接和评论。"
+    },
+    "keyboardNavGoModeTitle": {
+        "message": "向上投票"
+    },
+    "keyboardNavGoModeDesc": {
+        "message": "为所选链接或评论上推（或删除上推）。"
+    },
+    "keyboardNavInboxTitle": {
+        "message": "向下投票"
+    },
+    "keyboardNavInboxDesc": {
+        "message": "给选中的链接或评论下拉投票（或移除下拉投票）。"
+    },
+    "keyboardNavInboxNewTabTitle": {
+        "message": "不切换向上投票"
+    },
+    "keyboardNavInboxNewTabDesc": {
+        "message": "为选中的链接或评论上投票（但不移除上投票）。"
+    },
+    "keyboardNavModmailTitle": {
+        "message": "不切换的下拉投票"
+    },
+    "keyboardNavModmailDesc": {
+        "message": "为选中的链接或评论下拉投票（但不移除下拉投票）。"
+    },
+    "keyboardNavModmailNewTabTitle": {
+        "message": "保存帖子"
+    },
+    "keyboardNavModmailNewTabDesc": {
+        "message": "将当前帖子保存到你的 reddit 账户。在任何地方登录后都可以访问，但如果编辑或删除了原文，则不会保留原文。"
+    },
+    "keyboardNavProfileTitle": {
+        "message": "保存评论"
+    },
+    "keyboardNavProfileDesc": {
+        "message": "将当前评论保存到你的 reddit 账户。你可以在任何已登录的地方访问此功能，但如果编辑或删除了评论，则不会保留原文。"
+    },
+    "keyboardNavProfileNewTabTitle": {
+        "message": "保存 RES"
+    },
+    "keyboardNavProfileNewTabDesc": {
+        "message": "用 RES 保存当前评论。这可以保留评论的原文，但只能保存在本地。"
+    },
+    "keyboardNavFrontPageTitle": {
+        "message": "回复"
+    },
+    "keyboardNavFrontPageDesc": {
+        "message": "回复当前评论（仅限评论页面）。"
+    },
+    "keyboardNavSlashAllTitle": {
+        "message": "编辑"
+    },
+    "keyboardNavSlashAllDesc": {
+        "message": "编辑当前评论或自行发表评论。"
+    },
+    "keyboardNavsSubredditFrontPageTitle": {
+        "message": "显示子评论"
+    },
+    "keyboardNavsSubredditFrontPageDesc": {
+        "message": "显示/隐藏子评论树（仅限评论页面）。"
+    },
+    "keyboardNavRandomTitle": {
+        "message": "显示所有子评论"
+    },
+    "keyboardNavRandomDesc": {
+        "message": "显示/隐藏页面上的所有子评论（仅限评论页面）。"
+    },
+    "keyboardNavNextPageTitle": {
+        "message": "跟踪永久链接"
+    },
+    "keyboardNavNextPageDesc": {
+        "message": "打开当前评论的永久链接（仅限评论页面）。"
+    },
+    "keyboardNavPrevPageTitle": {
+        "message": "在新标签页中跟随 Permalink"
+    },
+    "keyboardNavPrevPageDesc": {
+        "message": "在新标签页中打开当前评论的永久链接（仅限评论页面）。"
+    },
+    "keyboardNavOverviewLegacyTitle": {
+        "message": "关注子页面"
+    },
+    "keyboardNavOverviewLegacyDesc": {
+        "message": "转到所选链接的子页面（仅限链接页面）。"
+    },
+    "keyboardNavProfileViewTitle": {
+        "message": "关注新标签页"
+    },
+    "keyboardNavProfileViewDesc": {
+        "message": "在新标签页中转入所选链接的子页面（仅限链接页面）。"
+    },
+    "keyboardNavToggleCommentNavigatorTitle": {
+        "message": "关注简介"
+    },
+    "keyboardNavToggleCommentNavigatorDesc": {
+        "message": "转到所选内容作者的简介。"
+    },
+    "keyboardNavCommentNavigatorMoveUpTitle": {
+        "message": "关注简介新标签页"
+    },
+    "keyboardNavCommentNavigatorMoveUpDesc": {
+        "message": "在新标签页转到所选内容作者的简介。"
+    },
+    "keyboardNavCommentNavigatorMoveDownTitle": {
+        "message": "转到模式"
+    },
+    "keyboardNavCommentNavigatorMoveDownDesc": {
+        "message": "输入 \"转到模式\"（在使用以下任何 \"转到 \"快捷方式之前必须输入）。"
+    },
+    "keyboardNavAmbiguousShortcutPrompt": {
+        "message": "收件箱"
+    },
+    "keyboardNavAmbiguousShortcutPromptFollowUp": {
+        "message": "转到收件箱。"
+    },
+    "keyboardNavFocusOnSearchBoxTitle": {
+        "message": "收件箱新标签页"
+    },
+    "keyboardNavFocusOnSearchBoxDesc": {
+        "message": "在新标签页中转入收件箱。"
+    },
+    "localDateName": {
+        "message": "模式邮件"
+    },
+    "localDateDesc": {
+        "message": "转到 Modmail。"
+    },
+    "logoLinkName": {
+        "message": "Modmail 新标签"
+    },
+    "logoLinkDesc": {
+        "message": "在新标签页中转入 Modmail。"
+    },
+    "logoLinkRedditLogoDestinationTitle": {
+        "message": "个人资料"
+    },
+    "logoLinkRedditLogoDestinationDesc": {
+        "message": "转到个人资料。"
+    },
+    "logoLinkFrontpage": {
+        "message": "个人档案新标签"
+    },
+    "logoLinkAll": {
+        "message": "在新标签页中进入个人档案。"
+    },
+    "logoLinkHot": {
+        "message": "首页"
+    },
+    "logoLinkDashboard": {
+        "message": "转到首页。"
+    },
+    "logoLinkCurrent": {
+        "message": "/r/all"
+    },
+    "logoLinkMyUserPage": {
+        "message": "转至 /r/all。"
+    },
+    "logoLinkInbox": {
+        "message": "子红人区首页"
+    },
+    "logoLinkCustom": {
+        "message": "转至子红地首页。"
+    },
+    "logoLinkCustomDestinationTitle": {
+        "message": "随机"
+    },
+    "logoLinkCustomDestinationDesc": {
+        "message": "随机转到一个子红人区。"
+    },
+    "menuName": {
+        "message": "下一页"
+    },
+    "messageMenuName": {
+        "message": "转到下一页（仅限链接列表页）。"
+    },
+    "messageMenuDesc": {
+        "message": "上一页"
+    },
+    "messageMenuAddShortcut": {
+        "message": "转到上一页（仅限链接列表页面）。"
+    },
+    "messageMenuLabel": {
+        "message": "传统简介"
+    },
+    "messageMenuUrl": {
+        "message": "转到传统（概览）简介（仅限简介页面）。"
+    },
+    "messageMenuLinksTitle": {
+        "message": "新简介"
+    },
+    "messageMenuLinksDesc": {
+        "message": "转到新简介（仅限简介页面）。"
+    },
+    "messageMenuUseQuickMessageTitle": {
+        "message": "切换评论导航器"
+    },
+    "messageMenuUseQuickMessageDesc": {
+        "message": "打开评论导航器。"
+    },
+    "messageMenuHoverDelayTitle": {
+        "message": "评论导航器上移"
+    },
+    "messageMenuHoverDelayDesc": {
+        "message": "使用评论导航器向上移动。"
+    },
+    "messageMenuFadeDelayTitle": {
+        "message": "下移评论导航器"
+    },
+    "messageMenuFadeDelayDesc": {
+        "message": "使用批注导航器下移。"
+    },
+    "messageMenuFadeSpeedTitle": {
+        "message": "当您按下键盘快捷键 2 时，\"RES \"1 不知道该做什么。"
+    },
+    "messageMenuFadeSpeedDesc": {
+        "message": "您可以稍后在 \"1 \"设置中进行更改"
+    },
+    "modhelperName": {
+        "message": "聚焦搜索框"
+    },
+    "modhelperDesc": {
+        "message": "将光标聚焦在搜索框中。"
+    },
+    "multiredditNavbarName": {
+        "message": "本地日期"
+    },
+    "multiredditNavbarDesc": {
+        "message": "将鼠标悬停在相对日期上时，显示当地时区的日期。"
+    },
+    "multiredditNavbarSectionMenuTitle": {
+        "message": "徽标链接"
+    },
+    "multiredditNavbarSectionMenuDesc": {
+        "message": "允许你更改 reddit 徽标上的链接。"
+    },
+    "multiredditNavbarSectionLinksTitle": {
+        "message": "Reddit 徽标目的地"
+    },
+    "multiredditNavbarSectionLinksDesc": {
+        "message": "点击 reddit 徽标时的位置。"
+    },
+    "multiredditNavbarAddShortcut": {
+        "message": "首页"
+    },
+    "multiredditNavbarLabel": {
+        "message": "/r/all"
+    },
+    "multiredditNavbarUrl": {
+        "message": "/hot/"
+    },
+    "multiredditNavbarHoverDelayTitle": {
+        "message": "仪表板"
+    },
+    "multiredditNavbarHoverDelayDesc": {
+        "message": "当前子版块/多版块"
+    },
+    "multiredditNavbarFadeDelayTitle": {
+        "message": "我的用户页面"
+    },
+    "multiredditNavbarFadeDelayDesc": {
+        "message": "收件箱"
+    },
+    "multiredditNavbarFadeSpeedTitle": {
+        "message": "自定义"
+    },
+    "multiredditNavbarFadeSpeedDesc": {
+        "message": "自定义目的地"
+    },
+    "nerName": {
+        "message": "如果 redditLogoDestination 设置为自定义，则链接至此处。"
+    },
+    "nerDesc": {
+        "message": "RES 菜单"
+    },
+    "nerReturnToPrevPageTitle": {
+        "message": "信息菜单"
+    },
+    "nerReturnToPrevPageDesc": {
+        "message": "将鼠标悬停在邮件图标上，可访问不同类型的邮件或撰写新邮件。"
+    },
+    "nerAutoLoadTitle": {
+        "message": "+添加快捷方式"
+    },
+    "nerAutoLoadDesc": {
+        "message": "标签"
+    },
+    "nerPauseAfterEveryTitle": {
+        "message": "网址"
+    },
+    "nerPauseAfterEveryDesc": {
+        "message": "链接"
+    },
+    "nerReversePauseIconTitle": {
+        "message": "在邮件图标下拉菜单中显示的链接。"
+    },
+    "nerShowPauseButtonDesc": {
+        "message": "使用快速信息"
+    },
+    "nerShowPauseButtonTitle": {
+        "message": "撰写新邮件时使用弹出式快速信息。"
+    },
+    "nerReversePauseIconDesc": {
+        "message": "悬停延迟"
+    },
+    "nerShowServerInfoTitle": {
+        "message": "加载悬停工具提示前的延迟（毫秒）。"
+    },
+    "nerShowServerInfoDesc": {
+        "message": "渐变延迟"
+    },
+    "necName": {
+        "message": "悬停工具提示消失前的延迟（毫秒）。"
+    },
+    "necDescription": {
+        "message": "渐变速度"
+    },
+    "necLoadChildCommentsTitle": {
+        "message": "渐变动画的速度（秒）。"
+    },
+    "necLoadChildCommentsDesc": {
+        "message": "修改助手"
+    },
+    "newCommentCountName": {
+        "message": "通过提示和技巧帮助版主与 RES 玩得愉快。"
+    },
+    "newCommentCountDesc": {
+        "message": "多站点导航"
+    },
+    "newCommentCountHideWhenUnchangedTitle": {
+        "message": "增强首页左侧显示的导航栏。"
+    },
+    "newCommentCountHideWhenUnchangedDesc": {
+        "message": "版块菜单"
+    },
+    "newCommentCountCleanCommentsTitle": {
+        "message": "将鼠标悬停在链接上时，会显示一个菜单，链接到多ireddit 的各个部分。"
+    },
+    "newCommentCountCleanCommentsDesc": {
+        "message": "版块链接"
+    },
+    "newCommentCountSubscriptionLengthTitle": {
+        "message": "在下拉菜单中显示的链接。"
+    },
+    "newCommentCountSubscriptionLengthDesc": {
+        "message": "+add multireddit 栏目快捷方式"
+    },
+    "newCommentCountShowSubscribeButtonTitle": {
+        "message": "标签"
+    },
+    "newCommentCountShowSubscribeButtonDesc": {
+        "message": "网址"
+    },
+    "newCommentCountNotifyEditedPostsTitle": {
+        "message": "悬停延迟"
+    },
+    "newCommentCountNotifyEditedPostsDesc": {
+        "message": "加载悬停工具提示前的延迟（毫秒）。"
+    },
+    "newCommentCountMonitorPostsVisitedTitle": {
+        "message": "淡出延迟"
+    },
+    "newCommentCountMonitorPostsVisitedDesc": {
+        "message": "悬停工具提示淡出前的延迟（毫秒）。"
+    },
+    "newCommentCountMonitorPostsVisitedIncognitoTitle": {
+        "message": "渐变速度"
+    },
+    "newCommentCountMonitorPostsVisitedIncognitoDesc": {
+        "message": "渐变动画的速度（秒）。"
+    },
+    "readCommentsName": {
+        "message": "永无止境的 Reddit"
+    },
+    "readCommentsDesc": {
+        "message": "受 Reddit 之河和 Auto Pager 等模块的启发--为您提供永无止境的 Reddit 信息流。"
+    },
+    "readCommentsCleanCommentsTitle": {
+        "message": "返回上一页"
+    },
+    "readCommentsCleanCommentsDesc": {
+        "message": "点击 \"返回 \"按钮后，返回到上一页面？"
+    },
+    "readCommentsMonitorSelectedTitle": {
+        "message": "自动加载"
+    },
+    "readCommentsMonitorSelectedDesc": {
+        "message": "滚动时自动加载新页面（如果关闭，则需要点击加载）。"
+    },
+    "readCommentsMonitorWhenIncognitoTitle": {
+        "message": "每次加载后暂停"
+    },
+    "readCommentsMonitorWhenIncognitoDesc": {
+        "message": "自动加载一定数量的页面后，暂停自动加载程序。"
+    },
+    "commentSortByTitle": {
+        "message": ""
+    },
+    "commentSortByDesc": {
+        "message": "0 表示永不结束 Reddit 只有在点击右上角的播放/暂停按钮时才会暂停。"
+    },
+    "nightModeName": {
+        "message": "反向暂停图标"
+    },
+    "noPartName": {
+        "message": "在右上角显示自动加载的播放/暂停按钮。"
+    },
+    "noPartDesc": {
+        "message": "显示暂停按钮"
+    },
+    "noPartDisableVoteButtonsTitle": {
+        "message": "在自动加载暂停时显示 \"暂停 \"条形图标，在激活时显示 \"播放 \"楔形图标。"
+    },
+    "noPartDisableVoteButtonsDesc": {
+        "message": "显示服务器信息"
+    },
+    "noPartDisableCommentTextareaTitle": {
+        "message": "在浮动的 Never-Ending Reddit 工具旁显示 π 服务器/调试信息。"
+    },
+    "noPartDisableCommentTextareaDesc": {
+        "message": "永无止境的评论"
+    },
+    "noPartEvenIfSubscriberTitle": {
+        "message": "让超长评论页面保持流畅。"
+    },
+    "noPartEvenIfSubscriberDesc": {
+        "message": "加载子评论"
+    },
+    "noPartEscapeNPTitle": {
+        "message": "除了顶层评论外，暂停时是否还应展开屏幕上的子评论？"
+    },
+    "noPartEscapeNPDesc": {
+        "message": "新评论计数"
+    },
+    "notificationsName": {
+        "message": "告诉您自上次查看主题以来有多少条评论。"
+    },
+    "notificationsDesc": {
+        "message": "未更改时隐藏"
+    },
+    "notificationStickyTitle": {
+        "message": "只在有新评论时显示计数。"
+    },
+    "notificationStickyDesc": {
+        "message": "清除评论"
+    },
+    "notificationsPerNotificationType": {
+        "message": "RES 停止跟踪已浏览主题的天数。"
+    },
+    "notificationsAlwaysSticky": {
+        "message": "计数订阅长度"
+    },
+    "notificationsNeverSticky": {
+        "message": "主题订阅到期前的天数。"
+    },
+    "notificationCloseDelayTitle": {
+        "message": "显示订阅按钮"
+    },
+    "notificationCloseDelayDesc": {
+        "message": "显示订阅按钮？"
+    },
+    "notificationFadeOutLengthTitle": {
+        "message": "通知已编辑的帖子"
+    },
+    "notificationFadeOutLengthDesc": {
+        "message": "订阅的帖子被编辑时发出通知。"
+    },
+    "notificationNotificationTypesTitle": {
+        "message": "监控已访问的帖子"
+    },
+    "notificationNotificationTypesDesc": {
+        "message": "监控您访问过的帖子的评论数和编辑日期。"
+    },
+    "notificationsAddNotificationType": {
+        "message": "监控隐身浏览的帖子"
+    },
+    "notificationsNotificationID": {
+        "message": "监控您在隐身/私人模式下浏览的帖子的评论数量和编辑日期。"
+    },
+    "notificationsEnabled": {
+        "message": "阅读评论"
+    },
+    "notificationsSticky": {
+        "message": "跟踪您已阅读的评论。有助于过滤评论。"
+    },
+    "onboardingName": {
+        "message": "清除评论"
+    },
+    "onboardingDesc": {
+        "message": "跟踪评论页面的天数。"
+    },
+    "onboardingUpdateNotificationName": {
+        "message": "监控所选"
+    },
+    "onboardingUpdateNotificationDescription": {
+        "message": "将选定的帖子标记为已读。"
+    },
+    "onboardingPatchUpdateNotificationName": {
+        "message": "隐身时监控"
+    },
+    "onboardingPatchUpdateNotificationDescription": {
+        "message": "在隐身/私人模式下浏览时进行跟踪。"
+    },
+    "onboardingBetaUpdateNotificationName": {
+        "message": "评论排序方式"
+    },
+    "onboardingBetaUpdateNotificationDescription": {
+        "message": "添加链接，通过下拉菜单设置默认评论排序。"
+    },
+    "onboardingUpgradeMessage": {
+        "message": "夜间模式"
+    },
+    "onboardingUpgradeCta": {
+        "message": "不参与"
+    },
+    "onboardingUpdateNotifictionReleaseNotes": {
+        "message": "通过警告不要在跟随 \"禁止参与\"（np）链接时投票或发表评论，以及提供防止意外参与的选项，帮助阻止拉帮结派行为，避免被禁言。"
+    },
+    "onboardingUpdateNotifictionNotification": {
+        "message": ""
+    },
+    "onboardingUpdateNotifictionNothing": {
+        "message": "[了解有关 \"禁止参与 \"的更多信息](/r/NoParticipation/wiki/intro)"
+    },
+    "orangeredName": {
+        "message": "禁用投票按钮"
+    },
+    "orangeredDesc": {
+        "message": "隐藏投票按钮。如果你已经访问过该页面并进行了投票，你之前的投票仍然可见。"
+    },
+    "orangeredOpenMailInNewTabTitle": {
+        "message": "禁用评论文本区"
+    },
+    "orangeredOpenMailInNewTabDesc": {
+        "message": "禁用评论。"
+    },
+    "orangeredUpdateCurrentTabTitle": {
+        "message": "即使是订阅者"
+    },
+    "orangeredUpdateCurrentTabDesc": {
+        "message": "在你是订阅者的子红帖中启用 NP 模式。"
+    },
+    "orangeredUpdateOtherTabsTitle": {
+        "message": "退出 NP"
+    },
+    "orangeredUpdateOtherTabsDesc": {
+        "message": "离开 \"不参与 \"页面时移除 NP 模式。"
+    },
+    "orangeredShowFloatingEnvelopeTitle": {
+        "message": "RES 通知"
+    },
+    "orangeredShowFloatingEnvelopeDesc": {
+        "message": "管理 RES 功能的弹出式通知。"
+    },
+    "orangeredRetroUnreadCountTitle": {
+        "message": "粘贴"
+    },
+    "orangeredRetroUnreadCountDesc": {
+        "message": "粘贴通知在点击关闭按钮前一直可见。"
+    },
+    "orangeredShowUnreadCountInTitleTitle": {
+        "message": "每种通知类型"
+    },
+    "orangeredShowUnreadCountInTitleDesc": {
+        "message": "始终粘贴"
+    },
+    "orangeredShowUnreadCountInFaviconTitle": {
+        "message": "从不粘贴"
+    },
+    "orangeredShowUnreadCountInFaviconDesc": {
+        "message": "关闭延迟"
+    },
+    "orangeredResetFaviconOnLeaveTitle": {
+        "message": "以毫秒为单位，直到通知开始消失的时间长度。"
+    },
+    "orangeredResetFaviconOnLeaveDesc": {
+        "message": "淡出时间长度"
+    },
+    "orangeredUnreadLinksToInboxTitle": {
+        "message": "以毫秒为单位，用于停止通知消失的时间长度。"
+    },
+    "orangeredUnreadLinksToInboxDesc": {
+        "message": "通知类型"
+    },
+    "orangeredHideModMailTitle": {
+        "message": "管理不同类型的通知。"
+    },
+    "orangeredHideModMailDesc": {
+        "message": "手动注册通知类型"
+    },
+    "orangeredHideNewModMailTitle": {
+        "message": "通知 ID"
+    },
+    "orangeredHideNewModMailDesc": {
+        "message": "已启用"
+    },
+    "orangeredHideEmptyMailTitle": {
+        "message": "粘性"
+    },
+    "orangeredHideEmptyMailDesc": {
+        "message": "RES 欢迎车"
+    },
+    "orangeredHideEmptyModMailTitle": {
+        "message": "在 /r/Enhancement 了解有关 RES 的更多信息。"
+    },
+    "orangeredHideEmptyModMailDesc": {
+        "message": "更新通知"
+    },
+    "orangeredHideEmptyNewModMailTitle": {
+        "message": "主要/次要更新的通知方法。"
+    },
+    "orangeredHideEmptyNewModMailDesc": {
+        "message": "补丁更新通知"
+    },
+    "faviconNotificationBGColorDesc": {
+        "message": "补丁更新的通知方法。"
+    },
+    "faviconNotificationBGColorTitle": {
+        "message": "测试版更新通知"
+    },
+    "faviconNotificationTextColorDesc": {
+        "message": "测试版更新的通知方法。"
+    },
+    "faviconNotificationTextColorTitle": {
+        "message": "Reddit Enhancement Suite 已升级至 v$1。"
+    },
+    "pageNavName": {
+        "message": "更多信息"
+    },
+    "pageNavDesc": {
+        "message": "在后台标签页中显示发布说明"
+    },
+    "pageNavToTopTitle": {
+        "message": "显示弹出式通知"
+    },
+    "pageNavToTopDesc": {
+        "message": "无"
+    },
+    "pageNavToCommentTitle": {
+        "message": "未读信息"
+    },
+    "pageNavToCommentDesc": {
+        "message": "帮你获得每日剂量的橘子。"
+    },
+    "pageNavShowLinkTitle": {
+        "message": "在新标签页中打开邮件"
+    },
+    "pageNavShowLinkDesc": {
+        "message": "点击邮件信封或 modmail 图标时，在新标签页中打开邮件？"
+    },
+    "pageNavShowLinkNewTabTitle": {
+        "message": "更新当前标签页"
+    },
+    "pageNavShowLinkNewTabDesc": {
+        "message": "当 RES 检查到 orangereds 时，更新当前标签页上的邮件按钮。"
+    },
+    "presetsName": {
+        "message": "更新其他标签页"
+    },
+    "presetsDesc": {
+        "message": "当 RES 检查是否有橙色字体时，更新所有打开的标签页。"
+    },
+    "quickMessageName": {
+        "message": "显示浮动信封"
+    },
+    "quickMessageDesc": {
+        "message": "在右上角显示信封（收件箱）图标。"
+    },
+    "resTipsName": {
+        "message": "恢复未读计数"
+    },
+    "resTipsDesc": {
+        "message": "如果你不喜欢原生 reddit 提供的未读计数，可以用 RES 风格的括号式未读计数来代替。"
+    },
+    "saveCommentsName": {
+        "message": "在标题中显示未读计数"
+    },
+    "saveCommentsDesc": {
+        "message": "在页面/标签标题中显示未读消息计数？"
+    },
+    "searchName": {
+        "message": "在图标中显示未读计数"
+    },
+    "searchHelperName": {
+        "message": "在图标中显示未读消息计数？"
+    },
+    "searchHelperDesc": {
+        "message": "离开时重置收藏夹图标"
+    },
+    "searchCopyResultForComment": {
+        "message": "在离开页面前重置收藏夹图标。"
+    },
+    "selectedEntryName": {
+        "message": ""
+    },
+    "selectedEntryDesc": {
+        "message": "这样可以防止未读徽章出现在书签中，但可能会影响浏览器缓存。"
+    },
+    "settingsConsoleDefaultAddRowText": {
+        "message": "指向收件箱的未读链接"
+    },
+    "settingsNavName": {
+        "message": "点击橙色链接时，始终转到收件箱，而不是未读邮件。"
+    },
+    "settingsNavDesc": {
+        "message": "隐藏模式邮件"
+    },
+    "showImagesName": {
+        "message": "隐藏用户栏中的模式邮件按钮。"
+    },
+    "showImagesDesc": {
+        "message": "隐藏新模式邮件"
+    },
+    "showKarmaName": {
+        "message": "隐藏用户栏中的新模式邮件按钮。"
+    },
+    "showKarmaDesc": {
+        "message": "隐藏空邮件"
+    },
+    "showParentName": {
+        "message": "在收件箱为空时隐藏邮件按钮。"
+    },
+    "showParentDesc": {
+        "message": "隐藏空模式邮件"
+    },
+    "singleClickName": {
+        "message": "收件箱为空时，隐藏模式邮件按钮。"
+    },
+    "singleClickDesc": {
+        "message": "隐藏空的新模式邮件"
+    },
+    "sourceSnudownName": {
+        "message": "收件箱为空时，隐藏新模式邮件按钮。"
+    },
+    "sourceSnudownDesc": {
+        "message": "更改 Favicon 通知的背景颜色。"
+    },
+    "spamButtonName": {
+        "message": "图标通知背景颜色"
+    },
+    "spamButtonDesc": {
+        "message": "更改 Favicon 通知的文字颜色。"
+    },
+    "spoilerTagsName": {
+        "message": "Favicon 通知文本颜色"
+    },
+    "spoilerTagsDesc": {
+        "message": "页面导航器"
+    },
+    "stylesheetName": {
+        "message": "提供浏览页面的工具。"
+    },
+    "stylesheetDesc": {
+        "message": "返回顶部"
+    },
+    "styleTweaksName": {
+        "message": "在每个页面上添加一个图标，点击后可进入顶部。"
+    },
+    "styleTweaksDesc": {
+        "message": "至新评论区"
+    },
+    "submitHelperName": {
+        "message": "为每个页面添加一个图标，点击后可进入新评论区。"
+    },
+    "submitHelperDesc": {
+        "message": "显示链接"
+    },
+    "submitIssueName": {
+        "message": "在评论页面向上滚动时显示有关提交的信息。"
+    },
+    "submitIssueDesc": {
+        "message": "在新标签页显示链接"
+    },
+    "subredditInfoName": {
+        "message": "在新标签页中打开链接。"
+    },
+    "subredditInfoDesc": {
+        "message": "预设"
+    },
+    "subredditManName": {
+        "message": "从各种预设 RES 配置中进行选择。每个预设都会打开或关闭不同的模块/选项，但不会重置整个配置。"
+    },
+    "subredditManDesc": {
+        "message": "快速信息"
+    },
+    "subredditTaggerName": {
+        "message": "弹出式对话框，可让你在 reddit 的任何地方发送消息。在快速消息对话框中按下 control-enter 或 command-enter 键即可发送消息。"
+    },
+    "subredditTaggerDesc": {
+        "message": "RES 提示和技巧"
+    },
+    "tableToolsName": {
+        "message": "为 RES 控制台添加提示/技巧帮助。"
+    },
+    "tableToolsDesc": {
+        "message": "保存评论"
+    },
+    "troubleshooterName": {
+        "message": "要使用 RES 保存评论，请单击评论下方的 **save-RES** 按钮。您可以在仪表板中查看已保存的评论。"
+    },
+    "troubleshooterDesc": {
+        "message": ""
+    },
+    "userbarHiderName": {
+        "message": "使用 RES 保存评论可将评论保存在本地浏览器中。这意味着，即使后来编辑或删除了评论，您也可以查看保存时的评论*。您可以在未登录或登录任何账户的情况下使用 RES 保存评论，所有评论都将在一个位置显示。您只能在安装了 RES 的浏览器上查看已保存的 RES 评论。"
+    },
+    "userbarHiderDesc": {
+        "message": ""
+    },
+    "userHighlightName": {
+        "message": "使用 reddit 保存评论时，您必须登录一个账户；评论是专门为该账户保存的；如果您切换到其他账户或注销，评论将不会显示。只要你登录了保存评论的 reddit 账户，就可以查看这些评论，包括在其他浏览器或设备上查看。"
+    },
+    "userHighlightDesc": {
+        "message": ""
+    },
+    "userInfoName": {
+        "message": "从外观上看，用 reddit 保存评论与用 RES 保存评论一样，但文本不会保存在本地，因此保存的评论文本显示的是评论的*当前*状态。如果评论在你保存后被编辑或删除，那么显示在你账户 \"已保存 \"页面上的文字就会与你保存时不同。"
+    },
+    "userInfoDesc": {
+        "message": ""
+    },
+    "redditUserInfoName": {
+        "message": "如果你的账户有 [reddit gold](/gold/about)，你可以为你用 reddit 保存的评论添加类别/标签，然后按类别过滤保存的评论/帖子。(无法对用 RES 保存的评论进行分类或过滤）。"
+    },
+    "redditUserInfoDesc": {
+        "message": "搜索 RES 设置"
+    },
+    "usernameHiderName": {
+        "message": "搜索助手"
+    },
+    "usernameHiderDesc": {
+        "message": "为使用搜索提供帮助。"
+    },
+    "userTaggerName": {
+        "message": "复制此条评论"
+    },
+    "userTaggerDesc": {
+        "message": "选定条目"
+    },
+    "versionName": {
+        "message": "当前选中的提交或评论的样式。"
+    },
+    "versionDesc": {
+        "message": "添加行"
+    },
+    "voteEnhancementsName": {
+        "message": "RES 设置导航"
+    },
+    "voteEnhancementsDesc": {
+        "message": "帮助您更轻松地使用 RES 设置控制台。"
+    },
+    "wheelBrowseName": {
+        "message": "内联图片浏览器"
+    },
+    "wheelBrowseDesc": {
+        "message": "只需点击按钮，即可在浏览器中打开内联图片。还具有配置选项，请查看！"
+    },
+    "xPostLinksName": {
+        "message": "显示 \"因果关系"
+    },
+    "xPostLinksDesc": {
+        "message": "在用户菜单栏中用户名旁边的 \"因果关系 \"中添加更多信息和调整。"
+    },
+    "profileNavigatorName": {
+        "message": "悬停时显示父评论"
+    },
+    "profileNavigatorDesc": {
+        "message": "当鼠标悬停在评论的 \"父 \"链接上时，显示父评论。"
+    },
+    "profileNavigatorSectionMenuDesc": {
+        "message": "单击打开"
+    },
+    "profileNavigatorSectionLinksDesc": {
+        "message": "添加一个 [l+c] 链接，只需单击一次即可在新标签页中打开链接和评论页面。"
+    },
+    "profileNavigatorHoverDelayDesc": {
+        "message": "显示原文"
+    },
+    "profileNavigatorFadeDelayDesc": {
+        "message": "添加一个工具，在 reddit 格式化文本之前，显示文章和评论的原始文本。"
+    },
+    "profileNavigatorFadeSpeedDesc": {
+        "message": "垃圾邮件按钮"
+    },
+    "accountSwitcherKeepLoggedInTitle": {
+        "message": "为帖子添加垃圾邮件按钮，方便用户举报。"
+    },
+    "accountSwitcherKeepLoggedInDesc": {
+        "message": "全局破坏者标签"
+    },
+    "accountSwitcherAccountsTitle": {
+        "message": "隐藏用户资料页面上的剧透。"
+    },
+    "accountSwitcherAccountsDesc": {
+        "message": "样式表加载器"
+    },
+    "accountSwitcherUpdateOtherTabsTitle": {
+        "message": "加载额外的样式表或你自己的 CSS 代码段。"
+    },
+    "accountSwitcherUpdateOtherTabsDesc": {
+        "message": "样式调整"
+    },
+    "accountSwitcherReloadOtherTabsTitle": {
+        "message": "为 Reddit 界面提供多种风格调整。"
+    },
+    "accountSwitcherReloadOtherTabsDesc": {
+        "message": "提交助手"
+    },
+    "accountSwitcherShowCurrentUserNameTitle": {
+        "message": "提供帮助提交帖子的实用工具。"
+    },
+    "accountSwitcherShowCurrentUserNameDesc": {
+        "message": "提交问题"
+    },
+    "accountSwitcherShowUserDetailsTitle": {
+        "message": "如果您在使用 RES 时遇到任何问题，请访问 /r/RESissues。如果您有任何要求或问题，请访问 /r/Enhancement。"
+    },
+    "accountSwitcherShowUserDetailsDesc": {
+        "message": "子红地毯信息"
+    },
+    "accountSwitcherShowKarmaTitle": {
+        "message": "为子红帖添加悬停工具提示。"
+    },
+    "accountSwitcherShowKarmaDesc": {
+        "message": "子红地毯管理器"
+    },
+    "accountSwitcherShowGoldTitle": {
+        "message": "允许你用自己的子红帖快捷方式自定义顶栏，包括多红帖下拉菜单等。"
+    },
+    "accountSwitcherShowGoldDesc": {
+        "message": "子红地毯标签"
+    },
+    "accountSwitcherDropDownStyleTitle": {
+        "message": "在首页、多红讨论区和 /r/all 上的提交标题开头添加自定义文本。有助于为提交内容添加上下文。"
+    },
+    "accountSwitcherDropDownStyleDesc": {
+        "message": "表格工具"
+    },
+    "accountSwitcherOptPrompt": {
+        "message": "包含 Reddit Markdown 表格的附加功能（目前只有排序）。"
+    },
+    "accountSwitcherPasswordPrompt": {
+        "message": "故障排除工具"
+    },
+    "backupAndRestoreProvidersFile": {
+        "message": "解决常见问题并清理/清除不需要的设置数据。"
+    },
+    "backupAndRestoreReloadWarningTitle": {
+        "message": ""
+    },
+    "backupAndRestoreReloadWarningDesc": {
+        "message": "经常备份是防止浏览器崩溃/更新或 RES 潜在问题的第一道防线。"
+    },
+    "backupAndRestoreReloadWarningNone": {
+        "message": ""
+    },
+    "backupAndRestoreReloadWarningWarn": {
+        "message": "有关备份 RES 设置的详情，请参阅 [此处](/r/Enhancement/wiki/backing_up_res_settings)。"
+    },
+    "backupAndRestoreReloadWarningAuto": {
+        "message": "用户栏隐藏"
+    },
+    "backupAndRestoreAutomaticBackupsTitle": {
+        "message": "添加一个切换按钮，用于显示或隐藏用户栏。"
+    },
+    "backupAndRestoreAutomaticBackupsDesc": {
+        "message": "用户高亮显示"
+    },
+    "backupAndRestoreAutomaticBackupsNone": {
+        "message": "高亮显示评论主题中的特定用户： OP, Admin, Friends, Mod - 由 MrDerk 提供。"
+    },
+    "backupAndRestoreWarnBeforeAutomaticRestoreTitle": {
+        "message": "用户信息"
+    },
+    "backupAndRestoreAutomaticRestoreDesc": {
+        "message": "为用户添加悬停工具提示。"
+    },
+    "backupAndRestoreAutomaticRestoreTitle": {
+        "message": "Reddit 用户信息"
+    },
+    "backupAndRestoreSyncFrequencyDesc": {
+        "message": "Reddits 为用户添加新的本地悬停工具提示。"
+    },
+    "backupAndRestoreSyncFrequencyTitle": {
+        "message": "用户名隐藏"
+    },
+    "backupAndRestoreWarnBeforeAutomaticRestoreDesc": {
+        "message": "用户名隐藏功能可在登录 reddit 时隐藏用户名，使其不显示在屏幕上。这样，如果有人从你的肩膀上看到你在工作，或者你截图，你的 reddit 用户名就不会显示出来。这只会影响你的屏幕。如果你在 reddit 上发帖或发表评论时，你的帖子与你的账户没有关联，那么你就无法在 reddit 上发帖或发表评论。"
+    },
+    "backupAndRestoreGoogleAccountTitle": {
+        "message": "用户标签"
+    },
+    "backupAndRestoreGoogleAccountDesc": {
+        "message": "为用户添加大量自定义功能--标记用户、忽略用户等。你可以在 [Manage User Tags](/r/Dashboard/#userTaggerContents)上管理贴有标签的用户。"
+    },
+    "backupAndRestoreBackupTitle": {
+        "message": "版本管理器"
+    },
+    "backupAndRestoreBackupDesc": {
+        "message": "处理当前/上一版本检查。"
+    },
+    "backupAndRestoreRestoreTitle": {
+        "message": "增强投票功能"
+    },
+    "backupAndRestoreRestoreDesc": {
+        "message": "格式化或显示关于帖子和评论投票的附加信息。"
+    },
+    "backupAndRestoreRestoreDescFirefox": {
+        "message": "通过滚轮浏览"
+    },
+    "backupAndRestoreImported": {
+        "message": "通过在灰色浮标内滚动浏览条目和图库。"
+    },
+    "backupAndRestoreImportedOtherTabs": {
+        "message": "X 帖子链接"
+    },
+    "backupAndRestoreSavedNotification": {
+        "message": "在帖子标语中创建指向 x-posted subreddits 的链接。"
+    },
+    "backupAndRestoreFoundBackup": {
+        "message": "简介导航器"
+    },
+    "backupAndRestoreBackupOverwriteWarning": {
+        "message": "增强进入用户页面各部分的功能。"
+    },
+    "backupAndRestoreAfterCancel": {
+        "message": "将鼠标悬停在右上角的用户名链接上时，会显示一个菜单，链接到当前用户配置文件的各个部分。"
+    },
+    "backupAndRestoreBackupDate": {
+        "message": "在个人资料悬停菜单中显示的链接。"
+    },
+    "backupAndRestoreBackupSize": {
+        "message": "加载悬停工具提示前的延迟（毫秒）。"
+    },
+    "betteRedditCommentsLinksNewTabTitle": {
+        "message": "悬停工具提示消失前的延迟（毫秒）。"
+    },
+    "betteRedditCommentsLinksNewTabDesc": {
+        "message": "渐变动画的速度（秒）。"
+    },
+    "filteRedditHideUntilProcessedTitle": {
+        "message": "保持登录状态"
+    },
+    "filteRedditHideUntilProcessedDesc": {
+        "message": "当我重新启动浏览器时保持登录状态。"
+    },
+    "betteRedditFixHideLinksTitle": {
+        "message": "账户"
+    },
+    "betteRedditFixHideLinksDesc": {
+        "message": "在下面设置用户名和密码。它们只存储在 RES 首选项中。"
+    },
+    "betteRedditHideLinkInstantTitle": {
+        "message": "更新其他标签页"
+    },
+    "betteRedditHideLinkInstantDesc": {
+        "message": "切换账户后，在其他选项卡中显示警告。"
+    },
+    "betteRedditHideLinkFadeDelayTitle": {
+        "message": "重新加载其他标签页"
+    },
+    "betteRedditHideLinkFadeDelayDesc": {
+        "message": "切换账户后，自动重新加载其他标签页。"
+    },
+    "betteRedditVideoTimesTitle": {
+        "message": "显示当前用户名"
+    },
+    "betteRedditVideoTimesDesc": {
+        "message": "在账户切换器中显示我当前的用户名。"
+    },
+    "betteRedditVideoUploadedTitle": {
+        "message": "显示用户详情"
+    },
+    "betteRedditVideoUploadedDesc": {
+        "message": "在账户切换器中显示每个账户的详细信息，如因果关系或黄金状态。"
+    },
+    "betteRedditVideoViewedTitle": {
+        "message": "显示因果关系"
+    },
+    "betteRedditVideoViewedDesc": {
+        "message": "在账户切换器中显示每个账户的帖子和评论因果关系。"
+    },
+    "betteRedditPinHeaderTitle": {
+        "message": "显示金币"
+    },
+    "betteRedditPinHeaderDesc": {
+        "message": "在账户切换器中显示每个账户的金币状态。"
+    },
+    "betteRedditPermanentVerticalScrollbarTitle": {
+        "message": "下拉样式"
+    },
+    "betteRedditPermanentVerticalScrollbarDesc": {
+        "message": "使用 \"snoo \"图标或旧式下拉样式？"
+    },
+    "betteRedditShowLastEditedTimestampTitle": {
+        "message": "输入验证程序中的 6 位数字代码，只需 1 美元"
+    },
+    "betteRedditShowLastEditedTimestampDesc": {
+        "message": "输入密码，只需 1 美元"
+    },
+    "betteRedditScoreHiddenTimeLeftTitle": {
+        "message": "文件"
+    },
+    "betteRedditScoreHiddenTimeLeftDesc": {
+        "message": "重载警告"
+    },
+    "betteRedditShowTimestampPostsTitle": {
+        "message": "手动或自动恢复备份后，应如何重新加载其他选项卡？必须重新加载标签页才能使恢复的设置生效。"
+    },
+    "betteRedditShowTimestampPostsDesc": {
+        "message": "什么都不做。"
+    },
+    "betteRedditShowTimestampCommentsTitle": {
+        "message": "打开提示重新加载其他选项卡。"
+    },
+    "betteRedditShowTimestampCommentsDesc": {
+        "message": "自动重新加载其他选项卡。"
+    },
+    "betteRedditShowTimestampSidebarTitle": {
+        "message": "自动备份"
+    },
+    "betteRedditShowTimestampSidebarDesc": {
+        "message": "将备份同步到指定的提供商。"
+    },
+    "betteRedditShowTimestampWikiTitle": {
+        "message": ""
+    },
+    "betteRedditShowTimestampWikiDesc": {
+        "message": "同步将定期进行。如果同时使用两台电脑，可能会丢失某些更改。"
+    },
+    "betteRedditShowTimestampModerationLogTitle": {
+        "message": "无"
+    },
+    "betteRedditShowTimestampModerationLogDesc": {
+        "message": "自动还原前警告"
+    },
+    "betteRedditRestoreSavedTabTitle": {
+        "message": "RES 是否应该在有更新的备份（例如从另一台计算机）时自动还原？"
+    },
+    "betteRedditRestoreSavedTabDesc": {
+        "message": "自动还原"
+    },
+    "betteRedditDoNoCtrlFTitle": {
+        "message": "RES 每隔多久（以小时为单位）更新一次备份？"
+    },
+    "betteRedditDoNoCtrlFDesc": {
+        "message": "同步频率"
+    },
+    "betteRedditShowHiddenSortOptionsTitle": {
+        "message": "自动还原备份前，是否应弹出窗口要求确认？"
+    },
+    "betteRedditShowHiddenSortOptionsDesc": {
+        "message": ""
+    },
+    "betteRedditTruncateLongLinksTitle": {
+        "message": "警告：如果禁用此选项并发生错误，您的设置可能会被静默删除。使用风险自负。"
+    },
+    "betteRedditTruncateLongLinksDesc": {
+        "message": "谷歌账户"
+    },
+    "betteRedditCommentCollapseInInboxTitle": {
+        "message": "如果（也只有在）您同时登录了多个 Google 账户，请输入您要使用的账户的电子邮件地址。"
+    },
+    "betteRedditCommentCollapseInInboxDesc": {
+        "message": ""
+    },
+    "betteRedditBlankPageUntilMeaningfulContentTitle": {
+        "message": "大多数情况下，您不需要使用此选项。"
+    },
+    "betteRedditBlankPageUntilMeaningfulContentDesc": {
+        "message": "备份"
+    },
+    "betteRedditRestrictScrollEventsTitle": {
+        "message": "备份您当前的 RES 状态。用 \"文件 \"下载，或上传到云备份提供商。"
+    },
+    "betteRedditRestrictScrollEventsDesc": {
+        "message": "还原"
+    },
+    "betteRedditHideLinkLabel": {
+        "message": "恢复您的 RES 设置备份。"
+    },
+    "betteRedditUnhideLinkLabel": {
+        "message": "恢复您的 RES 设置备份。请注意，Firefox 的 OneDrive 备份与其他浏览器的 OneDrive 备份是分开的。"
+    },
+    "betteRedditHideSubmissionError": {
+        "message": "您的 RES 存储已被导入。重新加载 reddit。"
+    },
+    "betteRedditUnhideSubmissionError": {
+        "message": "存储已在另一个选项卡中导入。重新加载以便设置生效？"
+    },
+    "betteRedditVideoYouTubeTitle": {
+        "message": "备份已保存到 1 美元。"
+    },
+    "betteRedditVideoViewed": {
+        "message": "发现来自 $1 的新自动备份。"
+    },
+    "commentDepthDefaultCommentDepthTitle": {
+        "message": "恢复备份将永久覆盖当前存储。您确定要这样做吗？"
+    },
+    "commentDepthDefaultCommentDepthDesc": {
+        "message": "如果点击取消，您将进入设置页面，在这里您可以禁用自动备份或创建一个新的备份来覆盖此备份。"
+    },
+    "commentDepthDefaultMinimumCommentsTitle": {
+        "message": "备份日期：1 美元"
+    },
+    "commentDepthDefaultMinimumCommentsDesc": {
+        "message": "备份大小：1 美元"
+    },
+    "commentDepthCommentPermaLinksTitle": {
+        "message": "评论链接新标签"
+    },
+    "commentDepthCommentPermaLinksDesc": {
+        "message": "在新标签页中打开评论中的链接。"
+    },
+    "commentDepthCommentPermalinksContextTitle": {
+        "message": "处理前隐藏"
+    },
+    "commentDepthCommentPermalinksContextDesc": {
+        "message": "不显示帖子和评论，直到过滤器处理完毕。"
+    },
+    "commentDepthSubredditCommentDepthsTitle": {
+        "message": "修复隐藏链接"
+    },
+    "commentDepthSubredditCommentDepthsDesc": {
+        "message": "根据隐藏状态，将 \"隐藏 \"链接改为 \"隐藏 \"或 \"取消隐藏\"。"
+    },
+    "commentDepthAddSubreddit": {
+        "message": "即时隐藏链接"
+    },
+    "commentDepthSubreddit": {
+        "message": "即时隐藏链接。"
+    },
+    "commentDepthCommentDepth": {
+        "message": "隐藏链接淡入延迟"
+    },
+    "commentDepthMinimumComments": {
+        "message": "隐藏链接淡出前的延迟时间（毫秒）。"
+    },
+    "commentPreviewEnableBigEditorTitle": {
+        "message": "视频时间"
+    },
+    "commentPreviewEnableBigEditorDesc": {
+        "message": "尽可能显示视频的长度。"
+    },
+    "commentPreviewSwapBigEditorLayoutTitle": {
+        "message": "视频上传"
+    },
+    "commentPreviewSwapBigEditorLayoutDesc": {
+        "message": "尽可能显示视频的上传日期。"
+    },
+    "commentPreviewOpenBigEditorTitle": {
+        "message": "视频观看次数"
+    },
+    "commentPreviewOpenBigEditorDesc": {
+        "message": "尽可能显示视频的观看次数。"
+    },
+    "commentPreviewDraftStyleTitle": {
+        "message": "钉住标题"
+    },
+    "commentPreviewDraftStyleDesc": {
+        "message": "将子红人栏、用户菜单或页眉固定在顶部，在滚动时向下浮动。"
+    },
+    "commentPreviewEnableForCommentsTitle": {
+        "message": "永久垂直滚动条"
+    },
+    "commentPreviewEnableForCommentsDesc": {
+        "message": "在整个页面生命周期内显示垂直滚动条。这样可以防止内容在加载过程中移动。"
+    },
+    "commentPreviewEnableForPostsTitle": {
+        "message": "显示最后编辑时间戳"
+    },
+    "commentPreviewEnableForPostsDesc": {
+        "message": "显示文本帖子/评论的编辑时间，无需将鼠标悬停在时间戳上。"
+    },
+    "commentPreviewEnableForWikiTitle": {
+        "message": "分数隐藏剩余时间"
+    },
+    "commentPreviewEnableForWikiDesc": {
+        "message": "当鼠标悬停在 [分数隐藏] 上时，显示剩余时间而不是隐藏持续时间。"
+    },
+    "commentPreviewEnableForSubredditConfigTitle": {
+        "message": "显示帖子时间戳"
+    },
+    "commentPreviewEnableForSubredditConfigDesc": {
+        "message": "显示帖子的精确日期（Sun Nov 16 20:14:56 2014 UTC），而不是相对日期（7 天前）。"
+    },
+    "commentPreviewEnableForBanMessagesTitle": {
+        "message": "显示评论时间戳"
+    },
+    "commentPreviewEnableForBanMessagesDesc": {
+        "message": "显示评论/消息的精确日期。"
+    },
+    "commentPreviewSidebarPreviewTitle": {
+        "message": "显示时间戳侧边栏"
+    },
+    "commentPreviewSidebarPreviewDesc": {
+        "message": "在侧边栏显示精确日期。"
+    },
+    "commentStyleCommentBoxesTitle": {
+        "message": "显示时间戳维基"
+    },
+    "commentStyleCommentBoxesDesc": {
+        "message": "在维基中显示精确日期。"
+    },
+    "commentStyleCommentRoundedTitle": {
+        "message": "显示时间戳审核日志"
+    },
+    "commentStyleCommentRoundedDesc": {
+        "message": "在审核日志（/r/mod/about/log）中显示精确日期。"
+    },
+    "commentStyleCommentHoverBorderTitle": {
+        "message": "恢复已保存选项卡"
+    },
+    "commentStyleCommentHoverBorderDesc": {
+        "message": "保存 \"选项卡现在位于 multireddit 侧边栏。这将在标题（\"热门\"、\"新 \"等标签旁边）恢复一个 \"已保存 \"链接。"
+    },
+    "commentStyleCommentIndentTitle": {
+        "message": "不要按 Ctrl+F"
+    },
+    "commentStyleCommentIndentDesc": {
+        "message": "使用浏览器的 Ctrl+F/Cmd+F \"查找文本 \"时，只搜索评论/帖子文本，不搜索导航链接（\"permalink source save...\"）。由于对性能有轻微影响，默认情况下已禁用。"
+    },
+    "commentStyleContinuityTitle": {
+        "message": "显示隐藏的排序选项"
+    },
+    "commentStyleContinuityDesc": {
+        "message": "Reddit 隐藏了大部分页面上的一些评论排序选项（随机等）。此选项可显示它们。"
+    },
+    "commentToolsUserAutoCompleteTitle": {
+        "message": "截断长链接"
+    },
+    "commentToolsUserAutoCompleteDesc": {
+        "message": "用省略号截断长文章标题（超过 1 行）。"
+    },
+    "commentToolsSubredditAutocompleteTitle": {
+        "message": "收件箱中的评论折叠"
+    },
+    "commentToolsSubredditAutocompleteDesc": {
+        "message": "在收件箱中显示 [-] 折叠按钮。"
+    },
+    "commentToolsWikiAutocompleteTitle": {
+        "message": "在有意义内容出现前显示空白页面"
+    },
+    "commentToolsWikiAutocompleteDesc": {
+        "message": "在尚未加载有意义的内容时不显示 Reddit，从而提高性能。"
+    },
+    "commentToolsFormattingToolButtonsTitle": {
+        "message": "限制滚动事件"
+    },
+    "commentToolsFormattingToolButtonsDesc": {
+        "message": "每次滚动 Reddit 都会执行大量工作，这可能会导致有大量评论的页面出现延迟。减少它处理的滚动事件数量可提高性能。"
+    },
+    "commentToolsKeyboardShortcutsTitle": {
+        "message": "隐藏"
+    },
+    "commentToolsKeyboardShortcutsDesc": {
+        "message": "取消隐藏"
+    },
+    "commentToolsBoldKeyTitle": {
+        "message": "抱歉，隐藏您的提交时出现错误。请尝试再次点击。"
+    },
+    "commentToolsBoldKeyDesc": {
+        "message": "很抱歉，在尝试取消隐藏您的提交时出现错误。请尝试再次点击。"
+    },
+    "commentToolsItalicKeyTitle": {
+        "message": "YouTube 标题：1 美元"
+    },
+    "commentToolsItalicKeyDesc": {
+        "message": "[浏览次数：1 美元］"
+    },
+    "commentToolsStrikeKeyTitle": {
+        "message": "默认评论深度"
+    },
+    "commentToolsStrikeKeyDesc": {
+        "message": "以下未列出的所有子论坛的默认评论深度。"
+    },
+    "commentToolsSuperKeyTitle": {
+        "message": "默认最少评论数"
+    },
+    "commentToolsSuperKeyDesc": {
+        "message": "应用自定义深度所需的默认最低评论数。"
+    },
+    "commentToolsLinkKeyTitle": {
+        "message": "评论永久链接"
+    },
+    "commentToolsLinkKeyDesc": {
+        "message": "设置特定评论链接的深度。"
+    },
+    "commentToolsQuoteKeyTitle": {
+        "message": "评论永久链接上下文"
+    },
+    "commentToolsQuoteKeyDesc": {
+        "message": "根据上下文设置指向特定评论的链接深度。"
+    },
+    "commentToolsCtrlEnterSubmitsCommentsTitle": {
+        "message": "子红人区评论深度"
+    },
+    "commentToolsCtrlEnterSubmitsCommentsDesc": {
+        "message": "子红人区特定的评论深度。"
+    },
+    "commentToolsCtrlEnterSavesLiveThreadsTitle": {
+        "message": "+add subreddit"
+    },
+    "commentToolsCtrlEnterSavesLiveThreadsDesc": {
+        "message": "子红人区"
+    },
+    "commentToolsCtrolEnterSubmitsPostsTitle": {
+        "message": "评论深度"
+    },
+    "commentToolsCtrolEnterSubmitsPostsDesc": {
+        "message": "最小评论数"
+    },
+    "commentToolsCommentingAsTitle": {
+        "message": "启用大编辑器"
+    },
+    "commentToolsCommentingAsDesc": {
+        "message": "启用双栏编辑器。"
+    },
+    "commentToolsHighlightIfAltAccountTitle": {
+        "message": "交换大编辑器布局"
+    },
+    "commentToolsHighlightIfAltAccountDesc": {
+        "message": "交换预览和编辑器（预览在左，编辑器在右）。"
+    },
+    "commentToolsShowInputLengthTitle": {
+        "message": "打开大编辑器"
+    },
+    "commentToolsShowInputLengthDesc": {
+        "message": "在大编辑器中打开当前标记符字段。(仅当聚焦标记符表单时）。"
+    },
+    "commentToolsMacroButtonsTitle": {
+        "message": "草稿样式"
+    },
+    "commentToolsMacroButtonsDesc": {
+        "message": "为预览应用 \"草稿 \"风格背景，以区别于评论文本区。"
+    },
+    "commentToolsMacrosTitle": {
+        "message": "启用评论"
+    },
+    "commentToolsMacrosDesc": {
+        "message": "显示评论预览。"
+    },
+    "commentToolsAddShortcut": {
+        "message": "启用帖子"
+    },
+    "commentToolsLabel": {
+        "message": "显示帖子预览。"
+    },
+    "commentToolsText": {
+        "message": "启用维基"
+    },
+    "commentToolsCategory": {
+        "message": "显示维基页面的预览。"
+    },
+    "commentToolsKey": {
+        "message": "启用子红帖配置"
+    },
+    "commentToolsKeepMacroListOpenTitle": {
+        "message": "显示编辑子红帖设置的预览。"
+    },
+    "commentToolsKeepMacroListOpenDesc": {
+        "message": "启用禁言信息"
+    },
+    "commentToolsMacroPlaceholdersTitle": {
+        "message": "显示禁言备注预览。"
+    },
+    "commentToolsMacroPlaceholdersDesc": {
+        "message": "侧边栏预览"
+    },
+    "commentToolsEnableOnBanMessagesTitle": {
+        "message": "编辑时直接在侧边栏显示标记符实时预览。"
+    },
+    "commentToolsEnableOnBanMessagesDesc": {
+        "message": "评论框"
+    },
+    "contextViewFullContextTitle": {
+        "message": "高亮显示评论框，以方便阅读/查找大型主题中的位置。"
+    },
+    "contextViewFullContextDesc": {
+        "message": "评论圆角"
+    },
+    "contextDefaultContextTitle": {
+        "message": "圆角显示评论框。"
+    },
+    "contextDefaultContextDesc": {
+        "message": "评论悬停边框"
+    },
+    "customTogglesToggleTitle": {
+        "message": "在悬停时突出显示评论框的层次结构（关闭可提高性能）。"
+    },
+    "customTogglesToggleDesc": {
+        "message": "评论缩进"
+    },
+    "dashboardMenuItemTitle": {
+        "message": "按 [x] 像素缩进评论（只输入数字，不输入 \"px\"）。"
+    },
+    "dashboardMenuItemDesc": {
+        "message": "连续性"
+    },
+    "dashboardDefaultPostsTitle": {
+        "message": "显示评论连续线。"
+    },
+    "dashboardDefaultPostsDesc": {
+        "message": "用户自动完成"
+    },
+    "dashboardDefaultSortTitle": {
+        "message": "在输入帖子、评论和回复时显示用户自动完成工具。"
+    },
+    "dashboardDefaultSortDesc": {
+        "message": "子网自动完成"
+    },
+    "dashboardDefaultSortSearchTitle": {
+        "message": "在输入帖子、评论和回复时显示子论坛自动完成工具。"
+    },
+    "dashboardDefaultSortSearchDesc": {
+        "message": "维基自动完成"
+    },
+    "dashboardDashboardShortcutTitle": {
+        "message": "在输入帖子、评论和回复时显示 Wiki 自动完成工具。"
+    },
+    "dashboardDashboardShortcutDesc": {
+        "message": "格式工具按钮"
+    },
+    "filteRedditUsersMatchActionTitle": {
+        "message": "在帖子、评论和其他删除/标记区域的编辑表单中显示格式工具（粗体、斜体、表格等）。"
+    },
+    "filteRedditUsersMatchActionDesc": {
+        "message": "键盘快捷键"
+    },
+    "filteRedditUsersMatchRepliesActionTitle": {
+        "message": "使用键盘快捷键对选定文本应用样式。"
+    },
+    "filteRedditUsersMatchRepliesActionDesc": {
+        "message": "粗体键"
+    },
+    "filteRedditNSFWfilterTitle": {
+        "message": "使文本加粗的键盘快捷键。"
+    },
+    "filteRedditNSFWfilterDesc": {
+        "message": "斜体键"
+    },
+    "filteRedditNSFWQuickToggleTitle": {
+        "message": "使文本斜体化的键盘快捷键。"
+    },
+    "filteRedditNSFWQuickToggleDesc": {
+        "message": "删除键"
+    },
+    "filteRedditShowFilterlineTitle": {
+        "message": "添加删除线的快捷键。"
+    },
+    "filteRedditShowFilterlineDesc": {
+        "message": "上标键"
+    },
+    "filteRedditExcludeOwnPostsTitle": {
+        "message": "使文本上标化的键盘快捷键。"
+    },
+    "filteRedditExcludeOwnPostsDesc": {
+        "message": "链接键"
+    },
+    "filteRedditExcludeModqueueTitle": {
+        "message": "添加链接的快捷键。"
+    },
+    "filteRedditExcludeModqueueDesc": {
+        "message": "引用键"
+    },
+    "filteRedditExcludeUserPagesTitle": {
+        "message": "引用文本的快捷键。"
+    },
+    "filteRedditExcludeUserPagesDesc": {
+        "message": "Ctrl+Enter 提交评论"
+    },
+    "filteRedditKeywordsTitle": {
+        "message": "按 Ctrl+Enter 或 Cmd+Enter 键可提交评论/维基编辑。"
+    },
+    "filteRedditKeywordsDesc": {
+        "message": "Ctrl+Enter 保存实时主题"
+    },
+    "filteRedditSubredditsTitle": {
+        "message": "按 Ctrl+Enter 或 Cmd+Enter 将保存实时主题的更新。"
+    },
+    "filteRedditSubredditsDesc": {
+        "message": "按 Ctrl+Enter 提交帖子"
+    },
+    "filteRedditSubredditsSubreddits": {
+        "message": "按 Ctrl+Enter 或 Cmd+Enter 可提交帖子。"
+    },
+    "filteRedditFilterSubredditsFromTitle": {
+        "message": "评论为"
+    },
+    "filteRedditFilterSubredditsFromDesc": {
+        "message": "显示您当前登录的用户名，以避免用错误的账号发表文章。"
+    },
+    "filteRedditUseRedditFiltersTitle": {
+        "message": "如果使用 Alt 帐户则高亮显示"
+    },
+    "filteRedditUseRedditFiltersDesc": {
+        "message": "如果您使用的是另一个账户，则将 \"以该账户发表评论 \"部分用粗体显示。账户切换器模块中的第一个账户将被视为您的主账户。"
+    },
+    "filteRedditForceSyncFiltersTitle": {
+        "message": "显示输入长度"
+    },
+    "filteRedditForceSyncFiltersDesc": {
+        "message": "提交时，显示在标题和文本字段中输入的字符数，并在标题超过 300 字符限制时显示。"
+    },
+    "filteRedditForceSyncFiltersLabel": {
+        "message": "宏按钮"
+    },
+    "filteRedditDomainsTitle": {
+        "message": "在编辑表单中为文章、评论和其他 snudown/markdown 文本区域添加宏按钮。"
+    },
+    "filteRedditDomainsDesc": {
+        "message": "宏"
+    },
+    "filteRedditFlairTitle": {
+        "message": "添加按钮以插入常用的文本片段。"
+    },
+    "filteRedditFlairDesc": {
+        "message": "+添加快捷键"
+    },
+    "filteRedditCommentContentTitle": {
+        "message": "标签"
+    },
+    "filteRedditCommentContentDesc": {
+        "message": "文本"
+    },
+    "filteRedditCommentContentHideRepliesTitle": {
+        "message": "类别"
+    },
+    "filteRedditCommentContentHideRepliesDesc": {
+        "message": "按键"
+    },
+    "filteRedditUsername": {
+        "message": "保持宏列表打开"
+    },
+    "filteRedditUsersTitle": {
+        "message": "从下拉列表中选择宏后，不要隐藏列表。"
+    },
+    "filteRedditUsersDesc": {
+        "message": "宏占位符"
+    },
+    "filteRedditAllowNSFWTitle": {
+        "message": "使用宏时，可通过弹出提示替换文本中的占位符。"
+    },
+    "filteRedditAllowNSFWDesc": {
+        "message": "宏文本示例："
+    },
+    "filteRedditAllowNSFWWhere": {
+        "message": "{{adj1}} {{adj2}} {{动物}}跳过了懒惰的 {{dog_color}} 狗。该{{animal}}是如此{{adj1}}！"
+    },
+    "filteRedditAllowNSFWWhenBrowsingSubreddit": {
+        "message": ""
+    },
+    "filteRedditCustomFiltersPTitle": {
+        "message": "使用宏时，某些占位符会自动填入："
+    },
+    "filteRedditCustomFiltersCTitle": {
+        "message": ""
+    },
+    "filteRedditCustomFiltersDesc": {
+        "message": "**{{subreddit}}**： 当前的 subreddit，格式为 /r/subreddit。"
+    },
+    "filteRedditEmptyNotificationHeader": {
+        "message": ""
+    },
+    "filteRedditEmptyNotificationInfo": {
+        "message": "**{{me}}**, **{{my_username}}**: 您的用户名，格式为 /u/username。"
+    },
+    "filteRedditEmptyNotificationToggleShowReason": {
+        "message": ""
+    },
+    "filteRedditKeyword": {
+        "message": "**{{op}}**, **{{op_username}}**: 原发帖人的用户名，格式为 /u/username。在帖子的评论页面，这是发帖人的用户名；在 PM 或 modmail 中，这是对话的发起人的用户名。"
+    },
+    "filteRedditApplyTo": {
+        "message": ""
+    },
+    "filteRedditEverywhere": {
+        "message": "**{{url}}**： 当前页面的 URL。"
+    },
+    "filteRedditEverywhereBut": {
+        "message": ""
+    },
+    "filteRedditOnlyOn": {
+        "message": "**{{reply_to}}**, **{{reply_to_username}}**: 回复人的用户名，格式为 /u/username。"
+    },
+    "filteRedditFilterSubredditsEverywhereButSubreddit": {
+        "message": ""
+    },
+    "filteRedditFilterSubredditsAllPopularAndDomain": {
+        "message": "**{{selected}}**, **{{selection}}**: 当前选中（高亮）的文本。"
+    },
+    "filteRedditSubreddits": {
+        "message": ""
+    },
+    "filteRedditAddFilter": {
+        "message": "**{{escaped}}**： 选中的文本，为 snudown/markdown 转义。"
+    },
+    "filteRedditAddSubreddits": {
+        "message": ""
+    },
+    "filteRedditAddCustomFilter": {
+        "message": "**{{now}}**： 您所在地区的当前日期和时间。"
+    },
+    "subredditManagerMultiCountTitle": {
+        "message": ""
+    },
+    "RESSettings": {
+        "message": "**{{today}}**： 您所在地区的当前日期。"
+    },
+    "myDashboard": {
+        "message": ""
+    },
+    "tipsAndTricks": {
+        "message": "**{{linkflair}}**： 在评论页面中，返回原始链接的标志文字。"
+    },
+    "donateToRES": {
+        "message": "在禁言信息中启用"
+    },
+    "nightModeToggleText": {
+        "message": "在禁言文本框中显示评论工具。"
+    },
+    "nightModeToggleTitle": {
+        "message": "查看全文"
+    },
+    "nsfwSwitchToggleText": {
+        "message": "在评论链接上添加 \"查看全文 \"链接。"
+    },
+    "nsfwSwitchToggleTitle": {
+        "message": "默认上下文"
+    },
+    "RESSettingsConsole": {
+        "message": "更改上下文链接的默认上下文值。"
+    },
+    "saveOptions": {
+        "message": "切换"
+    },
+    "showAdvancedOptions": {
+        "message": "启用或禁用与此切换相关的所有功能；也可选择在 RES 齿轮下拉菜单中添加切换。"
+    },
+    "searchRESSettings": {
+        "message": "菜单项"
+    },
+    "toggleOn": {
+        "message": "在 RES 菜单中显示我的仪表板链接。"
+    },
+    "toggleOff": {
+        "message": "默认帖子"
+    },
+    "subredditStyleToggleUse": {
+        "message": "每个小工具中默认显示的帖子数量。"
+    },
+    "submitHelperTimeAgo": {
+        "message": "默认排序",
+        "description": "如 \"1 天前"
+    },
+    "subredditInfoErrorLoadingSubredditInfo": {
+        "message": "新部件的默认排序方法。"
+    },
+    "subredditInfoSubredditNotFound": {
+        "message": "默认搜索排序"
+    },
+    "subredditInfoSubredditCreated": {
+        "message": "新搜索部件的默认排序方式。"
+    },
+    "subredditInfoSubscribers": {
+        "message": "仪表板快捷方式"
+    },
+    "subredditInfoTitle": {
+        "message": "在侧边栏显示仪表盘快捷方式，以便于添加仪表盘小工具。"
+    },
+    "subredditInfoOver18": {
+        "message": "用户匹配操作"
+    },
+    "subredditInfoAddRemoveShortcut": {
+        "message": "在上述列表中筛选用户时，应如何忽略他们？",
+        "description": "如 \"+快捷方式 \"或\"-快捷方式"
+    },
+    "subredditInfoAddThisSubredditToShortcuts": {
+        "message": ""
+    },
+    "subredditInfoAddRemoveDashboard": {
+        "message": "**隐藏**： 隐藏所有链接和评论。",
+        "description": "如 \"+仪表板 \"或\"-仪表板"
+    },
+    "subredditInfoAddThisSubredditToDashboard": {
+        "message": ""
+    },
+    "subredditInfoAddRemoveFilter": {
+        "message": "**用占位符替换**： 显示一个占位符，点击后可显示帖子的原始内容。"
+    },
+    "subredditInfoFilterFromAllAndDomain": {
+        "message": "用户匹配回复操作"
+    },
+    "subredditInfoSubscribe": {
+        "message": "如何处理已过滤的有回复的评论？"
+    },
+    "troubleshooterCachesCleared": {
+        "message": ""
+    },
+    "troubleshooterAreYouPositive": {
+        "message": "**保持可见**： 正常显示回复，但淡化和缩小过滤后的评论。"
+    },
+    "troubleshooterEntriesRemoved": {
+        "message": ""
+    },
+    "troubleshooterNoActionTaken": {
+        "message": "**折叠**： 与_kept visible_ 相同，但折叠已过滤的评论。"
+    },
+    "troubleshooterThisWillKillYourSettings": {
+        "message": ""
+    },
+    "troubleshooterSettingsReset": {
+        "message": "**隐藏**： 隐藏过滤后的评论及其回复。"
+    },
+    "userbarHiderUserBarHidden": {
+        "message": "NSFW 过滤器"
+    },
+    "userbarHiderContentHiddenNotification": {
+        "message": "过滤所有标有 NSFW 的链接。"
+    },
+    "userbarHiderToggleUserbar": {
+        "message": "NSFW 快速切换"
+    },
+    "userHighlightColorCouldNotBeGenerated": {
+        "message": "在齿轮菜单中添加 NSFW 快速开关。",
+        "description": "悬停/高亮差异是有意为之；模块名为 \"userHighlight"
+    },
+    "userInfoInvalidUsernameLink": {
+        "message": "显示过滤线"
+    },
+    "userInfoUserNotFound": {
+        "message": "默认显示过滤线控件。"
+    },
+    "userInfoUserSuspended": {
+        "message": "排除自己的帖子"
+    },
+    "userInfoLinks": {
+        "message": "不过滤自己的帖子。"
+    },
+    "userInfoComments": {
+        "message": "排除模块队列"
+    },
+    "userInfoAddRemoveFriends": {
+        "message": "不过滤 modqueue 页面上的任何内容（modqueue、报告、垃圾邮件等）。"
+    },
+    "userInfoRedditorSince": {
+        "message": "排除用户页面"
+    },
+    "userInfoPostKarma": {
+        "message": "不过滤用户资料页面上的任何内容。"
+    },
+    "userInfoCommentKarma": {
+        "message": "关键词"
+    },
+    "userInfoLink": {
+        "message": "隐藏标题中包含特定关键词的帖子。"
+    },
+    "userInfoSendMessage": {
+        "message": "子论坛"
+    },
+    "userInfoUserHasRedditGold": {
+        "message": "隐藏提交到特定子版块的帖子。"
+    },
+    "userInfoGiftRedditGold": {
+        "message": "子红帖"
+    },
+    "userInfoHighlight": {
+        "message": "过滤来自"
+    },
+    "userInfoUnhighlight": {
+        "message": "使用上述选项过滤 subreddits 时，应从何处过滤？"
+    },
+    "userInfoIgnore": {
+        "message": "使用 Reddit 过滤器"
+    },
+    "userInfoUnignore": {
+        "message": "用本模块过滤的子红包自动填充本地 /r/all 过滤器。如果超过 100 个，则选择最受欢迎的子红帖。"
+    },
+    "userTaggerMyUserTags": {
+        "message": "强制同步过滤器"
+    },
+    "userTaggerTaggedUsers": {
+        "message": "立即覆盖本地 /r/all 过滤器。"
+    },
+    "userTaggerAllUsers": {
+        "message": "同步"
+    },
+    "userTaggerUsername": {
+        "message": "域名"
+    },
+    "userTaggerTag": {
+        "message": "隐藏链接到特定域名的帖子。"
+    },
+    "userTaggerColor": {
+        "message": "注意：\"reddit \"等域名关键词会忽略 \"reddit.com \"和 \"fooredditbar.com\"。"
+    },
+    "userTaggerVotesUp": {
+        "message": "标签"
+    },
+    "userTaggerVotesDown": {
+        "message": "隐藏帖子链接标志中包含特定关键词的帖子。"
+    },
+    "userTaggerCommandLineDescription": {
+        "message": "评论内容"
+    },
+    "userTaggerTagUser": {
+        "message": "隐藏包含特定关键词的评论。"
+    },
+    "userTaggerTagUserAs": {
+        "message": ""
+    },
+    "userTaggerTagCanNotSetTag": {
+        "message": "高级示例："
+    },
+    "userTaggerAreYouSureYouWantToDeleteTag": {
+        "message": ""
+    },
+    "userTaggerYourVotesFor": {
+        "message": "`/^/?r/w$/s` 隐藏只链接到子红人的评论",
+        "description": "如 \"您对用户名的投票数：42"
+    },
+    "xPostLinksXpostedFrom": {
+        "message": "",
+        "description": "x-posted from /r/subreddit\" 中的内容"
+    },
+    "nightModeDesc": {
+        "message": "`/(?=^.{0,40}$)(?=.*cake day.*)/is` 隐藏包含 \"cake day \"的短评论（最多 40 个字符）。"
+    },
+    "nightModeNightModeOnTitle": {
+        "message": "评论内容隐藏回复"
+    },
+    "nightModeNightModeOnDesc": {
+        "message": "禁用时，只有在没有任何回复时，匹配的评论才会被完全隐藏。"
+    },
+    "nightModeNightSwitchTitle": {
+        "message": "用户名"
+    },
+    "nightModeNightSwitchDesc": {
+        "message": "用户"
+    },
+    "nightModeAutomaticNightModeTitle": {
+        "message": "隐藏这些用户的帖子和评论（用户页面除外）。"
+    },
+    "nightModeAutomaticNightModeDesc": {
+        "message": "允许 NSFW"
+    },
+    "nightModeAutomaticNightModeNone": {
+        "message": "当 NSFW 过滤器开启时，不隐藏某些子论坛的 NSFW 帖子。"
+    },
+    "nightModeAutomaticNightModeAutomatic": {
+        "message": "其中"
+    },
+    "nightModeAutomaticNightModeUser": {
+        "message": "浏览子红帖/多子红帖时"
+    },
+    "nightModeAutomaticNightModeSystem": {
+        "message": "自定义帖子过滤器"
+    },
+    "nightModeAutomaticNightModeDenied": {
+        "message": "自定义评论过滤器"
+    },
+    "nightModeNightModeStartTitle": {
+        "message": "根据复杂的自定义条件隐藏帖子。"
+    },
+    "nightModeNightModeStartDesc": {
+        "message": ""
+    },
+    "nightModeNightModeEndTitle": {
+        "message": "这是一项非常高级的功能，请在提问前[阅读指南](/r/Enhancement/wiki/customfilters)。"
+    },
+    "nightModeNightModeEndDesc": {
+        "message": "所有帖子都被过滤掉了"
+    },
+    "nightModeNightModeOverrideHoursTitle": {
+        "message": "RES 注意到每篇帖子都被隐藏了。点击下面的按钮查看帖子被过滤掉的原因。"
+    },
+    "nightModeNightModeOverrideHoursDesc": {
+        "message": "切换显示过滤原因"
+    },
+    "nightModeUseSubredditStylesTitle": {
+        "message": "关键词"
+    },
+    "nightModeUseSubredditStylesDesc": {
+        "message": "适用于"
+    },
+    "nightModeSubredditStylesWhitelistTitle": {
+        "message": "任何地方"
+    },
+    "nightModeSubredditStylesWhitelistDesc": {
+        "message": "任何地方，但"
+    },
+    "nightModeColoredLinksTitle": {
+        "message": "仅在"
+    },
+    "nightModeColoredLinksDesc": {
+        "message": "所有地方，但子版块内部除外"
+    },
+    "gfycatUseMobileGfycatTitle": {
+        "message": "/r/all、/r/popular 和域页面"
+    },
+    "gfycatUseMobileGfycatDesc": {
+        "message": "子红地毯"
+    },
+    "presetsLiteDesc": {
+        "message": "+add 过滤器"
+    },
+    "presetsCleanSlateDesc": {
+        "message": "+add subreddits"
+    },
+    "presetsNoPopupsDesc": {
+        "message": "+ 添加自定义过滤器"
+    },
+    "quickMessageOpenQuickMessageDesc": {
+        "message": "/r/$1在$2多红人区中"
+    },
+    "quickMessageDefaultSubjectDesc": {
+        "message": "RES设置"
+    },
+    "quickMessageSendAsDesc": {
+        "message": "我的仪表板"
+    },
+    "quickMessageHandleContentLinksDesc": {
+        "message": "提示和技巧"
+    },
+    "quickMessageHandleSideLinksDesc": {
+        "message": "为 RES 捐款"
+    },
+    "quickMessageLinkToCurrentPageDesc": {
+        "message": "夜间模式"
+    },
+    "requestPermissionsName": {
+        "message": "切换日夜模式"
+    },
+    "requestPermissionsDesc": {
+        "message": "NSFW 过滤器"
+    },
+    "RESTipsDailyTipDesc": {
+        "message": "切换 NSFW 过滤器"
+    },
+    "RESTipsMenuItemDesc": {
+        "message": "RES 设置控制台"
+    },
+    "RESTipsNewFeatureTipsDesc": {
+        "message": "保存选项"
+    },
+    "searchHelperAddSearchOptionsDesc": {
+        "message": "显示高级选项"
+    },
+    "searchHelperLegacySearchDesc": {
+        "message": "搜索 RES 设置"
+    },
+    "searchHelperToggleSearchOptionsDesc": {
+        "message": "开启"
+    },
+    "searchHelperHideSearchOptionsDesc": {
+        "message": "关闭"
+    },
+    "searchHelperUserFilterBySubredditDesc": {
+        "message": "使用 subreddit 风格"
+    },
+    "searchHelperSearchByFlairDesc": {
+        "message": "1 美元前"
+    },
+    "searchHelperSearchPageTabsDesc": {
+        "message": "加载 subreddit 信息时出错。"
+    },
+    "searchHelperDefaultSearchTabDesc": {
+        "message": "未找到 Subreddit。"
+    },
+    "searchHelperTransitionSearchTabsDesc": {
+        "message": "已创建子红地毯："
+    },
+    "searchHelperSearchBySubredditDesc": {
+        "message": "订阅者："
+    },
+    "searchHelperDefaultSortOptionDesc": {
+        "message": "标题："
+    },
+    "searchHelperDefaultTimeOptionDesc": {
+        "message": "超过 18 岁："
+    },
+    "selectedEntryAutoSelectOnScrollDesc": {
+        "message": "快捷方式"
+    },
+    "selectedEntryScrollToSelectedThingOnLoadTitle": {
+        "message": "将此子论坛添加到您的快捷栏"
+    },
+    "selectedEntryScrollToSelectedThingOnLoadDesc": {
+        "message": "仪表板"
+    },
+    "selectedEntryAddLineDesc": {
+        "message": "将该子版块添加到您的仪表板"
+    },
+    "selectedEntrySetColorsDesc": {
+        "message": "过滤"
+    },
+    "selectedEntryBackgroundColorDesc": {
+        "message": "从 /r/all 和 /domain/* 中过滤该子红帖"
+    },
+    "selectedEntryBackgroundColorNightDesc": {
+        "message": "订阅"
+    },
+    "selectedEntryTextColorNightDesc": {
+        "message": "清除所有缓存。"
+    },
+    "selectedEntryOutlineStyleDesc": {
+        "message": "你确定吗？"
+    },
+    "selectedEntryOutlineStyleNightDesc": {
+        "message": "删除了 $1 条目。"
+    },
+    "settingsNavigationShowAllOptionsDesc": {
+        "message": "未采取任何行动。"
+    },
+    "userTaggerShowTaggingIconDesc": {
+        "message": "这将杀死你的所有设置和保存的数据。如果确定，请输入 \"1 美元\"。"
+    },
+    "userTaggerStoreSourceLinkDesc": {
+        "message": "重置所有设置。重新加载以查看结果。"
+    },
+    "userTaggerUseCommentsLinkAsSourceDesc": {
+        "message": "隐藏用户栏"
+    },
+    "userTaggerTrackVoteWeightDesc": {
+        "message": "您的用户名、\"因果关系\"、偏好设置、RES 齿轮等都会被隐藏。点击右上角的\"$1 \"按钮可以重新显示。"
+    },
+    "userTaggerVWNumberDesc": {
+        "message": "切换用户栏"
+    },
+    "userTaggerTruncateTagDesc": {
+        "message": "某些悬停颜色无法生成。这可能是由于使用了特殊格式的颜色。"
+    },
+    "userTaggerPresetTagsDesc": {
+        "message": "无效用户名链接。"
+    },
+    "scrollOnCollapseDesc": {
+        "message": "未找到用户。"
+    },
+    "toggleCommentsOnClickLeftEdgeDesc": {
+        "message": "用户被暂停。"
+    },
+    "toggleCommentsLeftEdgeColorDesc": {
+        "message": "链接"
+    },
+    "toggleCommentsLeftEdgeHoverColorDesc": {
+        "message": "评论"
+    },
+    "toggleCommentsLeftEdgeCollapsedColorDesc": {
+        "message": "朋友"
+    },
+    "toggleCommentsLeftEdgeWidthDesc": {
+        "message": "Redditor since："
+    },
+    "toggleCommentsLeftEdgeHideButtonDesc": {
+        "message": "帖子因果报应："
+    },
+    "toggleCommentsOnClickLeftEdgeTitle": {
+        "message": "Comments Karma："
+    },
+    "toggleCommentsLeftEdgeColorTitle": {
+        "message": "链接："
+    },
+    "toggleCommentsLeftEdgeHoverColorTitle": {
+        "message": "发送消息"
+    },
+    "toggleCommentsLeftEdgeCollapsedColorTitle": {
+        "message": "用户拥有 Reddit Gold"
+    },
+    "toggleCommentsLeftEdgeWidthTitle": {
+        "message": "赠送 Reddit Gold"
+    },
+    "toggleCommentsLeftEdgeHideButtonTitle": {
+        "message": "加亮"
+    },
+    "scrollOnCollapseTitle": {
+        "message": "取消加亮"
+    },
+    "penaltyBoxName": {
+        "message": "忽略"
+    },
+    "penaltyBoxDesc": {
+        "message": "取消忽略"
+    },
+    "penaltyBoxDelayFeaturesDesc": {
+        "message": "我的用户标签"
+    },
+    "penaltyBoxDelayFeaturesTitle": {
+        "message": "有标签的用户"
+    },
+    "penaltyBoxSuspendFeaturesDesc": {
+        "message": "所有用户"
+    },
+    "penaltyBoxSuspendFeaturesTitle": {
+        "message": "用户名"
+    },
+    "penaltyBoxFeaturesDesc": {
+        "message": "标签"
+    },
+    "penaltyBoxFeaturesTitle": {
+        "message": "颜色"
+    },
+    "penaltyBoxFeaturesAddRowText": {
+        "message": "向上投票"
+    },
+    "penaltyBoxSuspendFeaturesNotificationHeader": {
+        "message": "下拉票"
+    },
+    "penaltyBoxSuspendFeaturesNotificationMessage": {
+        "message": "标记当前所选链接/评论的作者。"
+    },
+    "penaltyBoxSuspendFeaturesUndoButton": {
+        "message": "标记用户 $1"
+    },
+    "penaltyBoxSuspendFeaturesRevertNotificationHeader": {
+        "message": "将用户 $1 标记为 $2"
+    },
+    "penaltyBoxSuspendFeaturesRevertNotificationMessage": {
+        "message": "无法设置标签 - 未选择帖子/评论。"
+    },
+    "penaltyBoxFeaturesMonitoring": {
+        "message": "您确定要删除用户：1 的标签吗？"
+    },
+    "penaltyBoxFeaturesPenalty": {
+        "message": "您对 $1: $2 的投票",
+        "description": "功能的惩罚程度（0-100）"
+    },
+    "commandLineLaunchTitle": {
+        "message": "x 发布自"
+    },
+    "commandLineLaunchDesc": {
+        "message": "适合夜间浏览的更暗、更醒目的 Reddit 版本。"
+    },
+    "commandLineMenuItemTitle": {
+        "message": ""
+    },
+    "commandLineMenuItemDesc": {
+        "message": "注意：使用此开关将完全禁用夜间模式模块的所有功能。"
+    },
+    "presetsLiteTitle": {
+        "message": "要关闭夜间模式，请使用下面的夜间模式开启开关。"
+    },
+    "presetsCleanSlateTitle": {
+        "message": "开启夜间模式"
+    },
+    "presetsNoPopupsTitle": {
+        "message": "启用/禁用夜间模式。"
+    },
+    "profileNavigatorSectionMenuTitle": {
+        "message": "夜间开关"
+    },
+    "profileNavigatorSectionLinksTitle": {
+        "message": "启用夜间开关，在 \"设置 \"下拉菜单中的日间和夜间红点之间切换。"
+    },
+    "profileNavigatorHoverDelayTitle": {
+        "message": "自动夜间模式"
+    },
+    "profileNavigatorFadeDelayTitle": {
+        "message": "启用自动夜间模式。"
+    },
+    "profileNavigatorFadeSpeedTitle": {
+        "message": ""
+    },
+    "profileRedirectName": {
+        "message": "在**自动**模式下，系统将提示您共享位置。您的位置将仅用于计算日出和日落时间。"
+    },
+    "profileRedirectDesc": {
+        "message": ""
+    },
+    "profileRedirectFromLandingPageTitle": {
+        "message": "在**用户自定义时间**模式下，夜间模式会在以下配置的时间自动启动和停止。"
+    },
+    "profileRedirectFromLandingPageDesc": {
+        "message": ""
+    },
+    "profileRedirectFromLandingPageNotificationTitle": {
+        "message": "以下时间使用的是 0:00 至 23:59 的 24 小时时钟（\"军用时间\"）。"
+    },
+    "profileRedirectFromLandingPageNotificationText": {
+        "message": "例如，晚上 8:20 会写成 20:20，上午 12:30 会写成 00:30 或 0:30。"
+    },
+    "profileRedirectFromLandingPageNotificationButton": {
+        "message": ""
+    },
+    "profileRedirectCustomFromLandingPageTitle": {
+        "message": "通过选择**系统偏好**，只有当浏览器或操作系统显示偏好暗色主题时，才会启用夜间模式。"
+    },
+    "profileRedirectCustomFromLandingPageDesc": {
+        "message": ""
+    },
+    "quickMessageOpenQuickMessageTitle": {
+        "message": "要临时覆盖自动夜间模式，可手动打开夜间模式开关。"
+    },
+    "quickMessageDefaultSubjectTitle": {
+        "message": "请在下面配置覆盖的持续时间。"
+    },
+    "quickMessageSendAsTitle": {
+        "message": "已禁用"
+    },
+    "quickMessageHandleContentLinksTitle": {
+        "message": "自动（需要地理位置）"
+    },
+    "quickMessageHandleSideLinksTitle": {
+        "message": "用户自定义时间"
+    },
+    "quickMessageLinkToCurrentPageTitle": {
+        "message": "系统偏好"
+    },
+    "searchHelperAddSearchOptionsTitle": {
+        "message": "拒绝访问您当前的位置。计算自动夜间模式的日落和日出时间需要此功能。要禁用此功能，请单击\"$1\"。"
+    },
+    "searchHelperLegacySearchTitle": {
+        "message": "夜间模式开始"
+    },
+    "searchHelperToggleSearchOptionsTitle": {
+        "message": "自动夜间模式开始的时间。"
+    },
+    "searchHelperHideSearchOptionsTitle": {
+        "message": "夜间模式结束"
+    },
+    "searchHelperUserFilterBySubredditTitle": {
+        "message": "自动夜间模式结束的时间。"
+    },
+    "searchHelperSearchByFlairTitle": {
+        "message": "夜间模式覆盖小时数"
+    },
+    "searchHelperSearchPageTabsTitle": {
+        "message": "自动夜间模式覆盖持续的小时数。"
+    },
+    "searchHelperDefaultSearchTabTitle": {
+        "message": "这里也可以使用十进制小时数，例如 0.1 小时（即 6 分钟）。"
+    },
+    "searchHelperTransitionSearchTabsTitle": {
+        "message": "使用子版块样式"
+    },
+    "searchHelperSearchBySubredditTitle": {
+        "message": "使用夜间模式时，始终保持启用子红帖样式，忽略兼容性检查。"
+    },
+    "searchHelperDefaultSortOptionTitle": {
+        "message": ""
+    },
+    "searchHelperDefaultTimeOptionTitle": {
+        "message": "使用夜间模式时，除非[子红帖表明它对夜间模式友好](/r/Enhancement/wiki/subredditstyling#wiki_res_night_mode_and_your_subreddit)，否则子红帖样式会自动禁用。你必须在一个子红地毯的侧边栏勾选 \"使用子红地毯样式表\"，才能在该子红地毯中启用子红地毯样式。这是因为大多数子红帖对夜间模式不友好。"
+    },
+    "settingsNavigationShowAllOptionsTitle": {
+        "message": ""
+    },
+    "selectedEntryAutoSelectOnScrollTitle": {
+        "message": "如果你选择显示子红帖样式，你会看到炫耀图片和扰流标签，但要注意： **你可能会看到亮色图片、评论高亮等**，这取决于每个子红人区的版主是否能让他们的子红人区夜间模式友好，这可不是一件小事。在要求版主使其子版块夜间模式友好时，请保持礼貌。"
+    },
+    "selectedEntryAddLineTitle": {
+        "message": "子红地毯风格白名单"
+    },
+    "selectedEntrySetColorsTitle": {
+        "message": "如果禁用了 useSubredditStyles，允许列出的子红人在夜间模式下显示子红人样式。"
+    },
+    "selectedEntryBackgroundColorTitle": {
+        "message": "彩色链接"
+    },
+    "selectedEntryBackgroundColorNightTitle": {
+        "message": "将链接染成蓝色和紫色。"
+    },
+    "selectedEntryTextColorNightTitle": {
+        "message": "使用移动 Gfycat"
+    },
+    "selectedEntryOutlineStyleTitle": {
+        "message": "使用来自 gfycat 的移动（低分辨率）gif。"
+    },
+    "selectedEntryOutlineStyleNightTitle": {
+        "message": "精简版 RES：只使用流行内容"
+    },
+    "RESTipsMenuItemTitle": {
+        "message": "关闭所有 RES 模块"
+    },
+    "RESTipsDailyTipTitle": {
+        "message": "关闭通知和悬停弹出窗口"
+    },
+    "RESTipsNewFeatureTipsTitle": {
+        "message": "打开快速信息对话框的键盘快捷键。"
+    },
+    "userTaggerShowTaggingIconTitle": {
+        "message": "自动插入主题字段的文本，除非它是根据上下文自动填写的。"
+    },
+    "userTaggerStoreSourceLinkTitle": {
+        "message": "当 \"来自 \"字段未指定时，要选择的默认用户或子版块。"
+    },
+    "userTaggerUseCommentsLinkAsSourceTitle": {
+        "message": "如果所选选项无法使用（例如，你不是当前子红人区的版主），则恢复为当前用户。"
+    },
+    "userTaggerTrackVoteWeightTitle": {
+        "message": "在评论、自文或维基页面中点击 reddit.com/message/compose 链接时，打开快速消息对话框。"
+    },
+    "userTaggerVwNumberTitle": {
+        "message": "在侧边栏点击 reddit.com/message/compose 链接时，打开快速信息对话框。(例如，\"给版主留言）"
+    },
+    "userTaggerTruncateTagTitle": {
+        "message": "在信息正文中自动以指向当前页面的链接开头（如果从用户信息弹出窗口打开，则以指向当前帖子或评论的链接开头）。"
+    },
+    "userTaggerPresetTagsTitle": {
+        "message": "请求权限"
+    },
+    "singleClickOpenOrderTitle": {
+        "message": "现在授予可选权限，这样以后就不会出现提示。"
+    },
+    "singleClickOpenOrderDesc": {
+        "message": ""
+    },
+    "singleClickHideLECTitle": {
+        "message": "如果启用时没有出现提示，则可能已经授予了权限。"
+    },
+    "singleClickHideLECDesc": {
+        "message": "每 24 小时显示一次随机提示。"
+    },
+    "singleClickOpenFrontpageTitle": {
+        "message": "在 RES 下拉菜单中添加一个显示提示的项目。"
+    },
+    "singleClickOpenFrontpageDesc": {
+        "message": "在新功能首次出现时显示相关提示。"
+    },
+    "singleClickOpenBackgroundTitle": {
+        "message": "允许您在侧板的搜索表单中选择排序和时间范围。"
+    },
+    "singleClickOpenBackgroundDesc": {
+        "message": "为 reddit 搜索申请 \"传统布局 \"功能。"
+    },
+    "showKarmaShowCommentKarmaTitle": {
+        "message": ""
+    },
+    "showKarmaShowCommentKarmaDesc": {
+        "message": ""
+    },
+    "showKarmaSeparatorTitle": {
+        "message": "该功能仅在有限的时间内可用。"
+    },
+    "showKarmaSeparatorDesc": {
+        "message": "添加一个按钮，以便在搜索时隐藏搜索选项。"
+    },
+    "showKarmaUseCommasTitle": {
+        "message": "在搜索页面自动隐藏搜索选项和建议。"
+    },
+    "showKarmaUseCommasDesc": {
+        "message": "在用户配置文件中，提供从我们来自的子版块或多版块搜索用户帖子的功能。"
+    },
+    "showKarmaShowGoldTitle": {
+        "message": "点击帖子的标志时，搜索其子红帖的标志。"
+    },
+    "showKarmaShowGoldDesc": {
+        "message": "在某些隐藏实际标志并使用 CSS 添加伪标志的子红人中可能无法使用（唯一的解决方法是禁用子红人样式）。"
+    },
+    "showParentHoverDelayTitle": {
+        "message": "为搜索页面添加标签。"
+    },
+    "showParentHoverDelayDesc": {
+        "message": "每次搜索时都会展开的标签。"
+    },
+    "showParentFadeDelayTitle": {
+        "message": "在打开和关闭标签页时播放过渡效果。"
+    },
+    "showParentFadeDelayDesc": {
+        "message": "使用搜索框时，默认搜索当前的 subreddit，而不是整个 reddit。"
+    },
+    "showParentFadeSpeedTitle": {
+        "message": "在侧边栏的搜索表单中设置默认排序。"
+    },
+    "showParentFadeSpeedDesc": {
+        "message": "在侧边栏的搜索表单中设置默认时间。"
+    },
+    "showParentDirectionTitle": {
+        "message": "滚动时自动选择最上面的项目"
+    },
+    "showParentDirectionDesc": {
+        "message": "加载时滚动到所选内容"
+    },
+    "spoilerTagsTransitionTitle": {
+        "message": "页面加载时自动滚动到选中的帖子/评论"
+    },
+    "spoilerTagsTransitionDesc": {
+        "message": "在右侧显示一行"
+    },
+    "stylesheetRedditThemesTitle": {
+        "message": "设置颜色"
+    },
+    "stylesheetRedditThemesDesc": {
+        "message": "背景颜色"
+    },
+    "stylesheetLoadStylesheetsTitle": {
+        "message": "使用夜间模式时的背景颜色"
+    },
+    "stylesheetLoadStylesheetsDesc": {
+        "message": "使用夜间模式时的文本颜色"
+    },
+    "stylesheetSnippetsTitle": {
+        "message": "边框外观。例如：`1px 灰色虚线`（CSS）"
+    },
+    "stylesheetSnippetsDesc": {
+        "message": "使用夜间模式时的边框外观（同上）"
+    },
+    "stylesheetBodyClassesTitle": {
+        "message": "默认显示所有选项。如果想隐藏高级选项，请取消选中此复选框。"
+    },
+    "stylesheetBodyClassesDesc": {
+        "message": "始终在每个用户名后显示标签工具图标。"
+    },
+    "stylesheetSubredditClassTitle": {
+        "message": "默认情况下，存储一个链接，指向你标记用户的链接/评论"
+    },
+    "stylesheetSubredditClassDesc": {
+        "message": "默认情况下，在链接文章中标记用户时存储评论链接。否则，将使用（帖子指向的）链接。"
+    },
+    "stylesheetMultiredditClassTitle": {
+        "message": "存储给每个用户的累计上/下投票数，并用显示该数字的投票权重计数取代标签图标。"
+    },
+    "stylesheetMultiredditClassDesc": {
+        "message": "显示数字（如 [+6]）而不是 [vw]"
+    },
+    "stylesheetUsernameClassTitle": {
+        "message": "将长标签截断为 30 个字符。将鼠标悬停在标签上可显示完整内容。"
+    },
+    "stylesheetUsernameClassDesc": {
+        "message": "在标记用户时显示预设标记。"
+    },
+    "stylesheetLoggedInUserClassTitle": {
+        "message": "当一条评论折叠时，滚动到下一条评论。"
+    },
+    "stylesheetLoggedInUserClassDesc": {
+        "message": "在每条评论的左侧创建一个栏。点击该栏可折叠评论。"
+    },
+    "submitHelperWarnAlreadySubmittedTitle": {
+        "message": "栏的默认颜色。"
+    },
+    "submitHelperWarnAlreadySubmittedDesc": {
+        "message": "悬停时栏的颜色。"
+    },
+    "submitHelperUncheckSendRepliesToInboxTitle": {
+        "message": "折叠时栏的颜色。"
+    },
+    "submitHelperUncheckSendRepliesToInboxDesc": {
+        "message": "栏的宽度。"
+    },
+    "submitHelperFocusFormOnLoadTitle": {
+        "message": "隐藏折叠评论的默认按钮（[-]）。"
+    },
+    "submitHelperFocusFormOnLoadDesc": {
+        "message": "点击左边缘时切换评论"
+    },
+    "styleTweaksNavTopTitle": {
+        "message": "切换评论左边缘颜色"
+    },
+    "styleTweaksNavTopDesc": {
+        "message": "切换评论左边缘悬停颜色"
+    },
+    "styleTweaksDisableAnimationsTitle": {
+        "message": "切换评论左边缘折叠颜色"
+    },
+    "styleTweaksDisableAnimationsDesc": {
+        "message": "切换左边缘宽度"
+    },
+    "styleTweaksVisitedStyleTitle": {
+        "message": "切换评论左边缘隐藏按钮"
+    },
+    "styleTweaksVisitedStyleDesc": {
+        "message": "折叠时滚动"
+    },
+    "styleTweaksShowExpandosTitle": {
+        "message": "RES 功能节流"
+    },
+    "styleTweaksShowExpandosDesc": {
+        "message": "自动延迟或禁用未使用的 RES 功能。"
+    },
+    "styleTweaksHideUnvotableTitle": {
+        "message": "节流显示惩罚较高的功能。"
+    },
+    "styleTweaksHideUnvotableDesc": {
+        "message": "延迟功能"
+    },
+    "styleTweaksShowFullLinkFlairTitle": {
+        "message": "关闭超过最大惩罚的功能。"
+    },
+    "styleTweaksShowFullLinkFlairDesc": {
+        "message": "暂停功能"
+    },
+    "styleTweaksHighlightEditedTimeTitle": {
+        "message": "跟踪不同功能的使用情况。"
+    },
+    "styleTweaksHighlightEditedTimeDesc": {
+        "message": "功能"
+    },
+    "styleTweaksColorBlindFriendlyTitle": {
+        "message": "手动注册功能"
+    },
+    "styleTweaksColorBlindFriendlyDesc": {
+        "message": "暂停功能"
+    },
+    "subredditStyleToggleName": {
+        "message": "1 元将因缺乏使用而关闭。您可以稍后在 RES 设置控制台中再次启用。"
+    },
+    "subredditStyleToggleDesc": {
+        "message": "再次启用此功能"
+    },
+    "subredditStyleToggleBrowserToolbarButtonTitle": {
+        "message": "赦免功能"
+    },
+    "subredditStyleToggleBrowserToolbarButtonDesc": {
+        "message": "1 美元已重新开启。此功能不会再次被节流或自动禁用。"
+    },
+    "subredditStyleToggleCheckboxTitle": {
+        "message": "监控"
+    },
+    "subredditStyleToggleCheckboxDesc": {
+        "message": "惩罚"
+    },
+    "styleTweaksScrollSubredditDropdownTitle": {
+        "message": "启动"
+    },
+    "styleTweaksScrollSubredditDropdownDesc": {
+        "message": "打开 RES 命令行"
+    },
+    "styleTweaksHighlightTopLevelTitle": {
+        "message": "菜单项"
+    },
+    "styleTweaksHighlightTopLevelDesc": {
+        "message": "在 RES 下拉菜单中添加 \"启动命令行 \"项目"
+    },
+    "styleTweaksHighlightTopLevelColorTitle": {
+        "message": "精简版"
+    },
+    "styleTweaksHighlightTopLevelColorDesc": {
+        "message": "简洁"
+    },
+    "styleTweaksHighlightTopLevelSizeTitle": {
+        "message": "无弹出窗口"
+    },
+    "styleTweaksHighlightTopLevelSizeDesc": {
+        "message": "科室菜单"
+    },
+    "styleTweaksFloatingSideBarTitle": {
+        "message": "部分链接"
+    },
+    "styleTweaksFloatingSideBarDesc": {
+        "message": "悬停延迟"
+    },
+    "styleTweaksPostTitleCapitalizationTitle": {
+        "message": "渐变延迟"
+    },
+    "styleTweaksPostTitleCapitalizationDesc": {
+        "message": "渐变速度"
+    },
+    "styleTweaksHideDomainLink": {
+        "message": "简介重定向"
+    },
+    "styleTweaksHideDomainLinkDesc": {
+        "message": "优先加载个人资料页面的特定视图"
+    },
+    "styleTweaksFlairEmojiAsText": {
+        "message": "从登陆页面"
+    },
+    "styleTweaksFlairEmojiAsTextDesc": {
+        "message": "在加载默认登陆页面（即 reddit.com/user/u_example/）时重定向到个人资料的特定视图。"
+    },
+    "styleTweaksFlairEmojiAsTextNever": {
+        "message": "更改个人资料登陆页面"
+    },
+    "styleTweaksFlairEmojiAsTextNoSubStyle": {
+        "message": "RES 可重定向到 \"概述 \"传统用户页面或个人资料的其他视图。这对管理尤其有用。"
+    },
+    "styleTweaksFlairEmojiAsTextAlways": {
+        "message": "更改个人资料登陆页面"
+    },
+    "subRedditTaggerSubRedditsTitle": {
+        "message": "从登陆页面自定义目标"
+    },
+    "subRedditTaggerSubRedditsDesc": {
+        "message": "在加载登陆页面时重定向到个人资料的自定义视图，例如/user/username/{this}。"
+    },
+    "subredditInfoRequireDirectLinkTitle": {
+        "message": "打开快速信息"
+    },
+    "subredditInfoRequireDirectLinkDesc": {
+        "message": "默认主题"
+    },
+    "subredditInfoHoverDelayTitle": {
+        "message": "作为发送"
+    },
+    "subredditInfoHoverDelayDesc": {
+        "message": "处理内容链接"
+    },
+    "subredditInfoFadeDelayTitle": {
+        "message": "处理侧面链接"
+    },
+    "subredditInfoFadeDelayDesc": {
+        "message": "链接到当前页面"
+    },
+    "subredditInfoFadeSpeedTitle": {
+        "message": "添加搜索选项"
+    },
+    "subredditInfoFadeSpeedDesc": {
+        "message": "传统搜索"
+    },
+    "troubleshooterClearLabel": {
+        "message": "切换搜索选项"
+    },
+    "troubleshooterResetLabel": {
+        "message": "隐藏搜索选项"
+    },
+    "troubleshooterDisableLabel": {
+        "message": "用户按子版块筛选"
+    },
+    "troubleshooterClearCacheTitle": {
+        "message": "按标志搜索"
+    },
+    "troubleshooterClearCacheDesc": {
+        "message": "搜索页面标签"
+    },
+    "troubleshooterClearTagsTitle": {
+        "message": "默认搜索标签"
+    },
+    "troubleshooterClearTagsDesc": {
+        "message": "过渡搜索标签"
+    },
+    "troubleshooterResetToFactoryTitle": {
+        "message": "限制搜索至子版块"
+    },
+    "troubleshooterResetToFactoryDesc": {
+        "message": "默认排序选项"
+    },
+    "troubleshooterDisableRESTitle": {
+        "message": "默认时间选项"
+    },
+    "troubleshooterDisableRESDesc": {
+        "message": "显示所有选项"
+    },
+    "troubleshooterBreakpointTitle": {
+        "message": "滚动时自动选择"
+    },
+    "troubleshooterBreakpointDesc": {
+        "message": "添加线条"
+    },
+    "troubleshooterBreakpointLabel": {
+        "message": "设置颜色"
+    },
+    "troubleshooterTestNotificationsTitle": {
+        "message": "背景颜色"
+    },
+    "troubleshooterTestNotificationsDesc": {
+        "message": "夜间背景色"
+    },
+    "troubleshooterTestNotificationsLabel": {
+        "message": "夜间文本颜色"
+    },
+    "troubleshooterTestEnvironmentTitle": {
+        "message": "轮廓样式"
+    },
+    "troubleshooterTestEnvironmentDesc": {
+        "message": "夜色轮廓样式"
+    },
+    "troubleshooterTestEnvironmentLabel": {
+        "message": "菜单项"
+    },
+    "tableToolsSortTitle": {
+        "message": "每日提示"
+    },
+    "tableToolsSortDesc": {
+        "message": "新功能提示"
+    },
+    "userbarHiderUserbarStateTitle": {
+        "message": "显示标签图标"
+    },
+    "userbarHiderUserbarStateDesc": {
+        "message": "存储源链接"
+    },
+    "userbarHiderToggleButtonStateTitle": {
+        "message": "使用评论链接作为来源"
+    },
+    "userbarHiderToggleButtonStateDesc": {
+        "message": "跟踪投票权重"
+    },
+    "usernameHiderDisplayTextTitle": {
+        "message": "大众投票数"
+    },
+    "usernameHiderDisplayTextDesc": {
+        "message": "截断标签"
+    },
+    "usernameHiderPerAccountDisplayTextTitle": {
+        "message": "预设标签"
+    },
+    "usernameHiderPerAccountDisplayTextDesc": {
+        "message": "打开顺序"
+    },
+    "usernameHiderHideAllUsernamesTitle": {
+        "message": "打开链接/评论的顺序。"
+    },
+    "usernameHiderHideAllUsernamesDesc": {
+        "message": "隐藏 LEC"
+    },
+    "usernameHiderHideAccountSwitcherUsernamesTitle": {
+        "message": "当链接与评论页面相同时，隐藏 [l=c]。"
+    },
+    "usernameHiderHideAccountSwitcherUsernamesDesc": {
+        "message": "打开首页"
+    },
+    "usernameHiderShowUsernameOnHoverTitle": {
+        "message": "当点击自我帖子上的 [l=c] 时，打开子红人区首页。"
+    },
+    "usernameHiderShowUsernameOnHoverDesc": {
+        "message": "打开背景"
+    },
+    "userInfoHoverInfoTitle": {
+        "message": "在后台标签页中打开 [l+c] 链接。"
+    },
+    "userInfoHoverInfoDesc": {
+        "message": "显示评论因果关系"
+    },
+    "userInfoUseQuickMessageTitle": {
+        "message": "除显示帖子因果关系外，还显示评论因果关系。"
+    },
+    "userInfoUseQuickMessageDesc": {
+        "message": "分隔符"
+    },
+    "userInfoHoverDelayTitle": {
+        "message": "帖子/评论因果关系之间的分隔符。"
+    },
+    "userInfoHoverDelayDesc": {
+        "message": "使用逗号"
+    },
+    "userInfoFadeDelayTitle": {
+        "message": "因果关系数字较大时使用逗号。"
+    },
+    "userInfoFadeDelayDesc": {
+        "message": "显示金币"
+    },
+    "userInfoFadeSpeedTitle": {
+        "message": "如果当前用户为金牌用户，则显示金牌图标。"
+    },
+    "userInfoFadeSpeedDesc": {
+        "message": "悬停延迟"
+    },
+    "userInfoGildCommentsTitle": {
+        "message": "父悬停加载前的延迟（毫秒）。"
+    },
+    "userInfoGildCommentsDesc": {
+        "message": "渐变延迟"
+    },
+    "userInfoHighlightButtonTitle": {
+        "message": "鼠标离开后，父悬停淡出前的延迟（毫秒）。"
+    },
+    "userInfoHighlightButtonDesc": {
+        "message": "渐变速度"
+    },
+    "userInfoHighlightColorTitle": {
+        "message": "渐变动画的速度（秒）。"
+    },
+    "userInfoHighlightColorDesc": {
+        "message": "方向"
+    },
+    "userInfoHighlightColorHoverTitle": {
+        "message": "对父注释进行排序，使每个父注释位于其子注释的上方或下方。"
+    },
+    "userInfoHighlightColorHoverDesc": {
+        "message": "过渡"
+    },
+    "redditUserInfoHideDesc": {
+        "message": "延迟显示扰流文本。"
+    },
+    "redditUserInfoHideTitle": {
+        "message": "Reddit 主题"
+    },
+    "userHighlightHighlightSelfTitle": {
+        "message": "reddit 允许你自定义 reddit 的外观！Reddit 主题将应用于任何存在默认 reddit 风格的地方，并通过 reddit 禁用 subreddit 风格。"
+    },
+    "userHighlightHighlightSelfDesc": {
+        "message": "加载样式表"
+    },
+    "userHighlightSelfColorTitle": {
+        "message": "加载外部或 reddit CSS。"
+    },
+    "userHighlightSelfColorDesc": {
+        "message": "片段"
+    },
+    "userHighlightSelfColorHoverTitle": {
+        "message": "要加载的 CSS 代码段。"
+    },
+    "userHighlightSelfColorHoverDesc": {
+        "message": "正文类"
+    },
+    "userHighlightHighlightOPTitle": {
+        "message": "要添加到 &lt;body&gt;的 CSS 类。"
+    },
+    "userHighlightHighlightOPDesc": {
+        "message": "子红帖类"
+    },
+    "userHighlightOPColorTitle": {
+        "message": "浏览子红地毯时，将子红地毯名称作为类添加到正文中。"
+    },
+    "userHighlightOPColorDesc": {
+        "message": "例如，/r/ExampleSubreddit 会添加 `body.res-r-examplesubreddit`。"
+    },
+    "userHighlightOPColorHoverTitle": {
+        "message": "多 Reddit 类"
+    },
+    "userHighlightOPColorHoverDesc": {
+        "message": "浏览多ireddit 时，将多ireddit 名称作为类添加到正文中。"
+    },
+    "userHighlightOpMentionsTitle": {
+        "message": "例如，/u/ExampleUser/m/ExampleMulti 会添加 `body.res-user-exampleuser-m-examplemulti`。"
+    },
+    "userHighlightOpMentionsDesc": {
+        "message": "用户名类"
+    },
+    "userHighlightOpMentionsColorTitle": {
+        "message": "浏览用户配置文件时，将用户名作为类添加到正文中。"
+    },
+    "userHighlightOpMentionsColorDesc": {
+        "message": "例如，/u/ExampleUser 添加 `body.res-user-exampleuser`。"
+    },
+    "userHighlightOpMentionsHoverTitle": {
+        "message": "登录用户类"
+    },
+    "userHighlightOpMentionsHoverDesc": {
+        "message": "登录时，将用户名作为类添加到正文中。"
+    },
+    "userHighlightHighlightAdminTitle": {
+        "message": "例如，/u/ExampleUser 添加 `body.res-me-exampleuser`。"
+    },
+    "userHighlightHighlightAdminDesc": {
+        "message": "已提交警告"
+    },
+    "userHighlightAdminColorTitle": {
+        "message": "当当前 URL 已提交到所选子版块时显示警告。"
+    },
+    "userHighlightAdminColorDesc": {
+        "message": ""
+    },
+    "userHighlightAdminColorHoverTitle": {
+        "message": "*由于搜索限制和同一 URL 的不同格式，该警告并非 100% 准确。"
+    },
+    "userHighlightAdminColorHoverDesc": {
+        "message": "取消选中 \"发送回复到收件箱"
+    },
+    "userHighlightHighlightAlumTitle": {
+        "message": "提交新帖时，默认情况下取消选中 \"将回复发送到我的收件箱\"。"
+    },
+    "userHighlightHighlightAlumDesc": {
+        "message": "加载时聚焦表单"
+    },
+    "userHighlightAlumColorTitle": {
+        "message": "在页面加载时将键盘焦点放在表单上。"
+    },
+    "userHighlightAlumColorDesc": {
+        "message": "导航置顶"
+    },
+    "userHighlightAlumColorHoverTitle": {
+        "message": "将用户名导航栏移到顶部（非常适合上网本！）。"
+    },
+    "userHighlightAlumColorHoverDesc": {
+        "message": "禁用动画"
+    },
+    "userHighlightHighlightFriendTitle": {
+        "message": "禁止 CSS3 动画。(这将适用于整个 reddit、每个子红人区和 RES 功能。不过，子红地毯可能仍会有一些动画）。"
+    },
+    "userHighlightHighlightFriendDesc": {
+        "message": "访问过的样式"
+    },
+    "userHighlightFriendColorTitle": {
+        "message": "将你访问过的链接颜色更改为紫色（默认情况下，Reddit 只对提交的标题显示紫色）。"
+    },
+    "userHighlightFriendColorDesc": {
+        "message": "显示展开按钮"
+    },
+    "userHighlightFriendColorHoverTitle": {
+        "message": "为使用压缩链接显示的用户恢复视频和文本展开按钮。"
+    },
+    "userHighlightFriendColorHoverDesc": {
+        "message": "隐藏不可投票"
+    },
+    "userHighlightHighlightModTitle": {
+        "message": "在无法投票的主题上隐藏投票箭头（例如，由于年龄原因已存档）。"
+    },
+    "userHighlightHighlightModDesc": {
+        "message": "显示完整链接标志"
+    },
+    "userHighlightModColorTitle": {
+        "message": "选择何时显示完整链接标志。"
+    },
+    "userHighlightModColorDesc": {
+        "message": "高亮显示已编辑时间"
+    },
+    "userHighlightModColorHoverTitle": {
+        "message": "将已编辑的时间戳加粗（如 \"50 分钟前最后编辑\"）。"
+    },
+    "userHighlightModColorHoverDesc": {
+        "message": "色盲友好"
+    },
+    "userHighlightHighlightFirstCommenterTitle": {
+        "message": "尽可能使用色盲友好样式。"
+    },
+    "userHighlightHighlightFirstCommenterDesc": {
+        "message": "子红帖样式切换"
+    },
+    "userHighlightDontHighlightFirstCommentTitle": {
+        "message": "可让你禁用特定的子红帖样式（[全局设置](/prefs/#show_stylesheets) 必须开启）。"
+    },
+    "userHighlightDontHighlightFirstCommentDesc": {
+        "message": "浏览器工具栏按钮"
+    },
+    "userHighlightFirstCommentColorTitle": {
+        "message": "添加一个工具栏/视窗切换按钮--注意在某些浏览器中可能位于汉堡包菜单后面。"
+    },
+    "userHighlightFirstCommentColorDesc": {
+        "message": "复选框"
+    },
+    "userHighlightFirstCommentColorHoverTitle": {
+        "message": "在侧边栏添加复选框。"
+    },
+    "userHighlightFirstCommentColorHoverDesc": {
+        "message": "滚动子页面下拉菜单"
+    },
+    "userHighlightFontColorTitle": {
+        "message": "滚动标准 Subreddit 下拉菜单（适用于固定标题和禁用 Subreddit 管理器）。"
+    },
+    "userHighlightFontColorDesc": {
+        "message": "突出显示顶层"
+    },
+    "userHighlightAutoColorUsernamesTitle": {
+        "message": "画一条线分隔顶层评论，便于区分。"
+    },
+    "userHighlightAutoColorUsernamesDesc": {
+        "message": "突出显示顶层颜色"
+    },
+    "userHighlightAutoColorUsingTitle": {
+        "message": "指定分隔顶层评论的颜色。"
+    },
+    "userHighlightAutoColorUsingDesc": {
+        "message": "突出显示顶层评论大小"
+    },
+    "userHighlightGenerateHoverColorsTitle": {
+        "message": "指定用于分隔顶层评论的条的粗细（像素）。"
+    },
+    "userHighlightGenerateHoverColorsDesc": {
+        "message": "浮动边栏"
+    },
+    "subredditManagerSubredditShortcutTitle": {
+        "message": "使左侧边栏（包含多贴）在向下滚动时浮动，以便您能始终看到它。"
+    },
+    "subredditManagerSubredditShortcutDesc": {
+        "message": "帖子标题大写"
+    },
+    "subredditManagerShortcutsPerAccountTitle": {
+        "message": "强制帖子标题大写的特定样式。"
+    },
+    "subredditManagerShortcutsPerAccountDesc": {
+        "message": "隐藏域名链接"
+    },
+    "subredditManagerAlwaysApplySuffixToMultiTitle": {
+        "message": "隐藏帖子标语中的域名链接。"
+    },
+    "subredditManagerAlwaysApplySuffixToMultiDesc": {
+        "message": "将表情符号标志显示为文本"
+    },
+    "subredditManagerDropdownEditButtonTitle": {
+        "message": "将表情符号标志显示为文本，而不是图标"
+    },
+    "subredditManagerFilterPlaceholder": {
+        "message": "从不"
+    },
+    "subredditManagerDropdownEditButtonDesc": {
+        "message": "禁用 Subreddit 风格"
+    },
+    "subredditManagerShortcutDropdownDelayTitle": {
+        "message": "总是"
+    },
+    "subredditManagerShortcutDropdownDelayDesc": {
+        "message": "子红点"
+    },
+    "subredditManagerShortcutEditDropdownDelayTitle": {
+        "message": "subreddit： 子红人区的名称，不含斜线。"
+    },
+    "subredditManagerShortcutEditDropdownDelayDesc": {
+        "message": ""
+    },
+    "subredditManagerAllowLowercaseTitle": {
+        "message": "doesntContain： 任何可能出现在提交标题中的文本字符串。如果标题包含此字符串，则不会应用标签。"
+    },
+    "subredditManagerAllowLowercaseDesc": {
+        "message": ""
+    },
+    "subredditManagerLinkDashboardTitle": {
+        "message": "tag：将出现在提交标题开头的文本，例如使用 [tag]、（tag）、TAG | 等。"
+    },
+    "subredditManagerLinkDashboardDesc": {
+        "message": "要求直接链接"
+    },
+    "subredditManagerLinkAllTitle": {
+        "message": "弹出窗口应该只出现在直接的 /r/ 链接上，还是出现在所有指向子论坛的链接上？"
+    },
+    "subredditManagerLinkAllDesc": {
+        "message": "悬停延迟"
+    },
+    "subredditManagerLinkFrontTitle": {
+        "message": "加载悬停工具提示前的延迟（毫秒）。"
+    },
+    "subredditManagerLinkFrontDesc": {
+        "message": "渐变延迟"
+    },
+    "subredditManagerLinkPopularTitle": {
+        "message": "悬停工具提示消失前的延迟（毫秒）。"
+    },
+    "subredditManagerLinkPopularDesc": {
+        "message": "渐变速度"
+    },
+    "subredditManagerLinkProfilePostsTitle": {
+        "message": "渐变动画的速度（秒）。"
+    },
+    "subredditManagerLinkProfilePostsDesc": {
+        "message": "清除"
+    },
+    "subredditManagerLinkRandomTitle": {
+        "message": "重置"
+    },
+    "subredditManagerLinkRandomDesc": {
+        "message": "禁用"
+    },
+    "subredditManagerLinkMyRandomTitle": {
+        "message": "清除缓存"
+    },
+    "subredditManagerLinkMyRandomDesc": {
+        "message": "清除 RES 缓存和会话。这包括 \"我的红人 \"下拉菜单、用户/红人信息、i18n 词典等。"
+    },
+    "subredditManagerLinkRandNSFWTitle": {
+        "message": "清除标签"
+    },
+    "subredditManagerLinkRandNSFWDesc": {
+        "message": "删除投票数在 +1 和 -1 之间的用户的所有条目（仅限无标签用户）。"
+    },
+    "subredditManagerLinkUsersTitle": {
+        "message": "重置为出厂设置"
+    },
+    "subredditManagerLinkUsersDesc": {
+        "message": "警告： 这将删除所有 RES 设置，包括标签、保存的评论、过滤器等！"
+    },
+    "subredditManagerLinkFriendsTitle": {
+        "message": "禁用 RES"
+    },
+    "subredditManagerLinkFriendsDesc": {
+        "message": "重新读取页面并禁用此标签页的 RES。当前打开或之后打开的任何其他 reddit 标签或窗口仍将启用 RES。此功能可用于故障排除，也可用于快速隐藏用户注释、投票数、子红人快捷方式和其他 RES 数据，以便干净利落地截图。"
+    },
+    "subredditManagerLinkModTitle": {
+        "message": "断点"
+    },
+    "subredditManagerLinkModDesc": {
+        "message": "暂停 JavaScript 的执行，以便进行调试。"
+    },
+    "subredditManagerLinkModqueueTitle": {
+        "message": "暂停 JavaScript"
+    },
+    "subredditManagerLinkModqueueDesc": {
+        "message": "测试通知"
+    },
+    "subredditManagerLinkSavedTitle": {
+        "message": "测试通知。"
+    },
+    "subredditManagerLinkSavedDesc": {
+        "message": "测试通知"
+    },
+    "subredditManagerButtonEditTitle": {
+        "message": "测试环境"
+    },
+    "subredditManagerButtonEditDesc": {
+        "message": "一些特定环境/浏览器测试。"
+    },
+    "subredditManagerLastUpdateTitle": {
+        "message": "测试环境"
+    },
+    "subredditManagerLastUpdateDesc": {
+        "message": "排序"
+    },
+    "subredditManagerStoreSubredditVisitTitle": {
+        "message": "启用列排序。"
+    },
+    "subredditManagerStoreSubredditVisitDesc": {
+        "message": "用户栏状态"
+    },
+    "subredditManagerStoreSubredditVisitIncognitoTitle": {
+        "message": "用户栏"
+    },
+    "subredditManagerStoreSubredditVisitIncognitoDesc": {
+        "message": "切换按钮状态"
+    },
+    "subredditManagerDisplayMultiCountsTitle": {
+        "message": "切换按钮"
+    },
+    "subredditManagerDisplayMultiCountsDesc": {
+        "message": "显示文本"
+    },
+    "voteEnhancementsHighlightScoresTitle": {
+        "message": "用什么替换您的用户名。"
+    },
+    "voteEnhancementsHighlightScoresDesc": {
+        "message": "每个账户显示文本"
+    },
+    "voteEnhancementsColorLinkScoreTitle": {
+        "message": "允许您指定特定账户的显示文本。(与 \"账户切换器 \"配合使用非常有用！）。"
+    },
+    "voteEnhancementsColorLinkScoreDesc": {
+        "message": "隐藏所有用户名"
+    },
+    "voteEnhancementsUserDefinedLinkColorationTitle": {
+        "message": "隐藏 perAccountDisplayText 中列出的所有账户，而不仅仅是登录用户。"
+    },
+    "voteEnhancementsUserDefinedLinkColorationDesc": {
+        "message": "隐藏账户切换器用户名"
+    },
+    "voteEnhancementsColorCommentScoreTitle": {
+        "message": "隐藏账户切换器中列出的所有账户。"
+    },
+    "voteEnhancementsColorCommentScoreDesc": {
+        "message": "如果某个用户名尚未在 perAccountDisplayText 中列出，则使用默认显示文本隐藏该用户名。"
+    },
+    "voteEnhancementsUserDefinedCommentColorationTitle": {
+        "message": "悬停时显示用户名"
+    },
+    "voteEnhancementsUserDefinedCommentColorationDesc": {
+        "message": "将鼠标移至隐藏用户名的文本上，就会显示真实的用户名。"
+    },
+    "voteEnhancementsInterpolateScoreColorTitle": {
+        "message": "这样就可以方便地仔细检查您是否使用了正确的账户进行评论/发帖，同时还能隐藏您的用户名，避免被人窥探。"
+    },
+    "voteEnhancementsInterpolateScoreColorDesc": {
+        "message": "悬停信息"
+    },
+    "voteEnhancementsHighlightControversialTitle": {
+        "message": "在鼠标悬停时显示用户信息（因果报应、加入 redditor 的时间）。"
+    },
+    "voteEnhancementsHighlightControversialDesc": {
+        "message": "使用快速留言"
+    },
+    "voteEnhancementsHighlightControversialColorTitle": {
+        "message": "点击悬停信息中的 \"发送消息 \"按钮时，打开快速消息对话框，而不是直接进入 reddit 的消息页面。"
+    },
+    "voteEnhancementsHighlightControversialColorDesc": {
+        "message": "悬停延迟"
+    },
+    "showImagesBrowsePreloadCountTitle": {
+        "message": "加载悬停工具提示前的延迟（毫秒）。"
+    },
+    "showImagesBrowsePreloadCountDesc": {
+        "message": "渐变延迟"
+    },
+    "showImagesGalleryPreloadCountTitle": {
+        "message": "悬停工具提示淡出前的延迟（毫秒）。"
+    },
+    "showImagesGalleryPreloadCountDesc": {
+        "message": "渐变速度"
+    },
+    "showImagesCollapseInlineMediaTitle": {
+        "message": "渐变动画的速度（秒）。"
+    },
+    "showImagesCollapseInlineMediaDesc": {
+        "message": "镀金注释"
+    },
+    "showImagesConserveMemoryTitle": {
+        "message": "当用户点击评论悬停信息上的 \"give gold（赠送金币）\"按钮时，会为评论赠送金币。"
+    },
+    "showImagesConserveMemoryDesc": {
+        "message": "高亮按钮"
+    },
+    "showImagesMaxWidthTitle": {
+        "message": "在用户悬停信息中显示 \"高亮 \"按钮，用于区分来自特定用户的帖子/评论。"
+    },
+    "showImagesMaxWidthDesc": {
+        "message": "高亮颜色"
+    },
+    "showImagesMaxHeightTitle": {
+        "message": "从悬停信息中 \"高亮显示 \"所选用户时使用的颜色。"
+    },
+    "showImagesMaxHeightDesc": {
+        "message": "悬停高亮颜色"
+    },
+    "showImagesDisplayOriginalResolutionTitle": {
+        "message": "用于在悬停时突出显示所选用户的颜色。"
+    },
+    "showImagesDisplayOriginalResolutionDesc": {
+        "message": "隐藏新的 Reddit 工具提示。"
+    },
+    "showImagesSelfTextMaxHeightTitle": {
+        "message": "隐藏本地工具提示"
+    },
+    "showImagesSelfTextMaxHeightDesc": {
+        "message": "高亮显示自己"
+    },
+    "showImagesCommentMaxHeightTitle": {
+        "message": "高亮显示已登录用户的评论。"
+    },
+    "showImagesCommentMaxHeightDesc": {
+        "message": "自身颜色"
+    },
+    "showImagesAutoMaxHeightTitle": {
+        "message": "用于高亮显示已登录用户的颜色。"
+    },
+    "showImagesAutoMaxHeightDesc": {
+        "message": "自身颜色悬停"
+    },
+    "showImagesOpenInNewWindowTitle": {
+        "message": "用于在悬停时高亮显示已登录用户的颜色。"
+    },
+    "showImagesOpenInNewWindowDesc": {
+        "message": "高亮显示 OP"
+    },
+    "showImagesHideNSFWTitle": {
+        "message": "高亮显示 OP 的评论。"
+    },
+    "showImagesHideNSFWDesc": {
+        "message": "OP 颜色"
+    },
+    "showImagesHighlightNSFWButtonTitle": {
+        "message": "用于高亮 OP 的颜色。"
+    },
+    "showImagesHighlightNSFWButtonDesc": {
+        "message": "悬停时 OP 的颜色"
+    },
+    "showImagesHighlightSpoilerButtonTitle": {
+        "message": "悬停时用于高亮 OP 的颜色。"
+    },
+    "showImagesHighlightSpoilerButtonDesc": {
+        "message": "高亮显示 OP 提到的用户"
+    },
+    "showImagesImageZoomTitle": {
+        "message": "高亮显示 OP 在自贴中提到的用户。"
+    },
+    "showImagesImageZoomDesc": {
+        "message": "被提及用户的颜色"
+    },
+    "showImagesImageMoveTitle": {
+        "message": "用于高亮显示被提及用户的颜色。"
+    },
+    "showImagesImageMoveDesc": {
+        "message": "被提及用户悬停"
+    },
+    "showImagesMediaControlsTitle": {
+        "message": "用于在悬停时高亮显示被提及用户的颜色。"
+    },
+    "showImagesMediaControlsDesc": {
+        "message": "突出显示管理员"
+    },
+    "showImagesMediaControlsPositionTitle": {
+        "message": "突出显示管理员的评论。"
+    },
+    "showImagesMediaControlsPositionDesc": {
+        "message": "管理员颜色"
+    },
+    "showImagesClippyTitle": {
+        "message": "用于突出显示管理员的颜色。"
+    },
+    "showImagesClippyDesc": {
+        "message": "管理员悬停颜色"
+    },
+    "showImagesCrosspostsTitle": {
+        "message": "用于在悬停时突出显示管理员的颜色。"
+    },
+    "showImagesCrosspostsDescription": {
+        "message": "突出显示校友"
+    },
+    "showImagesDisplayImageCaptionsTitle": {
+        "message": "突出显示校友的评论。"
+    },
+    "showImagesDisplayImageCaptionsDesc": {
+        "message": "校友颜色"
+    },
+    "showImagesCaptionsPositionTitle": {
+        "message": "用于突出显示校友的颜色。"
+    },
+    "showImagesCaptionsPositionDesc": {
+        "message": "校友颜色悬停"
+    },
+    "showImagesMarkVisitedTitle": {
+        "message": "用于在悬停时突出显示校友的颜色。"
+    },
+    "showImagesMarkVisitedDesc": {
+        "message": "突出显示朋友"
+    },
+    "showImagesMarkSelftextVisitedTitle": {
+        "message": "突出显示好友的评论。"
+    },
+    "showImagesMarkSelftextVisitedDesc": {
+        "message": "好友颜色"
+    },
+    "showImagesSfwHistoryTitle": {
+        "message": "用于突出显示好友的颜色。"
+    },
+    "showImagesSfwHistoryDesc": {
+        "message": "好友颜色悬停"
+    },
+    "showImagesGalleryRememberWidthTitle": {
+        "message": "用于在悬停时突出显示好友的颜色。"
+    },
+    "showImagesGalleryRememberWidthDesc": {
+        "message": "高亮显示模块"
+    },
+    "showImagesGalleryAsFilmstripTitle": {
+        "message": "高亮显示 Mod 的评论。"
+    },
+    "showImagesGalleryAsFilmstripDesc": {
+        "message": "模式颜色"
+    },
+    "showImagesFilmstripLoadIncrementTitle": {
+        "message": "用于突出显示 Mod 的颜色。"
+    },
+    "showImagesFilmstripLoadIncrementDesc": {
+        "message": "悬停模式颜色"
+    },
+    "showImagesUseSlideshowWhenLargerThanTitle": {
+        "message": "用于在悬停时突出显示 Mod 的颜色。"
+    },
+    "showImagesUseSlideshowWhenLargerThanDesc": {
+        "message": "突出显示第一个评论者"
+    },
+    "showImagesShowViewImagesTabTitle": {
+        "message": "高亮显示树中第一个发表评论的人。"
+    },
+    "showImagesShowViewImagesTabDesc": {
+        "message": "不突出显示第一条评论"
+    },
+    "showImagesAutoExpandTypesTitle": {
+        "message": "不突出显示树中第一条评论的 \"第一评论者\"。"
+    },
+    "showImagesAutoExpandTypesDesc": {
+        "message": "第一评论颜色"
+    },
+    "showImagesAutoExpandSelfTextTitle": {
+        "message": "用于高亮显示第一评论者的颜色。"
+    },
+    "showImagesAutoExpandSelfTextDesc": {
+        "message": "首条评论颜色悬停"
+    },
+    "showImagesAutoExpandSelfTextFirstVisibleNonMutedTitle": {
+        "message": "用于在悬停时突出显示第一个评论者的颜色。"
+    },
+    "showImagesAutoExpandSelfTextFirstVisibleNonMutedDesc": {
+        "message": "字体颜色"
+    },
+    "showImagesAutoExpandSelfTextNSFWTitle": {
+        "message": "突出显示文本的颜色。"
+    },
+    "showImagesAutoExpandSelfTextNSFWDesc": {
+        "message": "自动为用户名着色"
+    },
+    "showImagesShowSiteAttributionTitle": {
+        "message": "自动为每个用户名设置特殊颜色。"
+    },
+    "showImagesShowSiteAttributionDesc": {
+        "message": "使用自动颜色"
+    },
+    "showImagesExpandoCommentRedirectsTitle": {
+        "message": "选择为用户名设置颜色的方法。"
+    },
+    "showImagesExpandoCommentRedirectsDesc": {
+        "message": "生成悬停色"
+    },
+    "showImagesStartVideosMutedTitle": {
+        "message": "根据正常颜色自动生成悬停颜色。"
+    },
+    "showImagesStartVideosMutedDesc": {
+        "message": "子红地毯快捷方式"
+    },
+    "showImagesMaxSimultaneousPlayingTitle": {
+        "message": "在 subreddit 侧边栏添加 +shortcut 按钮，方便添加快捷方式。"
+    },
+    "showImagesMaxSimultaneousPlayingDesc": {
+        "message": "每个账户的快捷方式"
+    },
+    "showImagesAutoplayVideoTitle": {
+        "message": "为每个账户显示个性化快捷方式。"
+    },
+    "showImagesAutoplayVideoDesc": {
+        "message": "始终为多个应用后缀"
+    },
+    "showImagesHidePinnedRedditVideosTitle": {
+        "message": "对于 a+b+c/x 等多子红帖快捷方式，可显示 a/x、b/x、c/x 等下拉选项。"
+    },
+    "showImagesHidePinnedRedditVideosDesc": {
+        "message": "下拉编辑按钮"
+    },
+    "showImagesHostToggleDesc": {
+        "message": "过滤子红地毯..."
+    },
+    "temporaryDropdownLinksName": {
+        "message": "在 subreddit 快捷栏的下拉菜单中显示 \"编辑 \"和 \"删除 \"按钮。"
+    },
+    "temporaryDropdownLinksDesc": {
+        "message": "快捷栏下拉菜单延迟"
+    },
+    "temporaryDropdownLinksAlwaysTitle": {
+        "message": "将鼠标移至快捷方式后，显示其下拉菜单的等待时间（以毫秒为单位）。(这尤其适用于多子红帖的快捷方式，如 sub1+sub2+sub3）。"
+    },
+    "temporaryDropdownLinksAlwaysDesc": {
+        "message": "快捷方式编辑下拉延迟"
+    },
+    "temporaryDropdownLinksTemporarily": {
+        "message": "将鼠标移至快捷方式后，显示其下拉式编辑按钮的等待时间（以毫秒为单位）。(这尤其适用于编辑/删除下拉按钮）。"
+    },
+    "showImagesForceReplaceNativeExpandoTitle": {
+        "message": "允许小写字母"
+    },
+    "showImagesForceReplaceNativeExpandoDesc": {
+        "message": "允许在快捷方式中使用小写字母，而不是强制使用大写字母。"
+    },
+    "showImagesVredditMinimumVideoBandwidthTitle": {
+        "message": "链接仪表板"
+    },
+    "showImagesVredditMinimumVideoBandwidthDesc": {
+        "message": "在子红人管理器中显示 \"DASHBOARD \"链接。"
+    },
+    "imgurPreferResAlbumsTitle": {
+        "message": "链接全部"
+    },
+    "imgurPreferResAlbumsDesc": {
+        "message": "在子红人管理器中显示 \"ALL \"链接。"
+    },
+    "imgurUseGifOverGifVTitle": {
+        "message": "链接主页"
+    },
+    "imgurUseGifOverGifVDesc": {
+        "message": "在 subreddit 管理器中显示 \"HOME \"链接。"
+    },
+    "imgurPreferredImgurLinkTitle": {
+        "message": "热门链接"
+    },
+    "imgurPreferredImgurLinkDesc": {
+        "message": "在 subreddit 管理器中显示 \"POPULAR \"链接。"
+    },
+    "imgurImageResolutionTitle": {
+        "message": "链接简介帖子"
+    },
+    "imgurImageResolutionDesc": {
+        "message": "在 subreddit 管理器中显示 \"PROFILES \"链接。"
+    },
+    "userInfoUserTag": {
+        "message": "链接随机"
+    },
+    "menuGearIconClickActionTitle": {
+        "message": "在 subreddit 管理器中显示 \"RANDOM \"链接。"
+    },
+    "menuGearIconClickActionDesc": {
+        "message": "链接我的随机"
+    },
+    "menuGearIconClickActionOpenSettings": {
+        "message": "在 subreddit 管理器中显示 \"MYRANDOM \"链接（仅限 reddit gold）。"
+    },
+    "menuGearIconClickActionOpenCommandLine": {
+        "message": "链接 Rand NSFW"
+    },
+    "menuGearIconClickActionToggleMenu": {
+        "message": "在 subreddit 管理器中显示 \"RANDNSFW \"链接。"
+    },
+    "menuGearIconClickActionToggleMenuNoHover": {
+        "message": "链接用户"
+    },
+    "numPoints": {
+        "message": "在 subreddit 管理器中显示 \"USERS \"链接。"
+    },
+    "numComments": {
+        "message": "链接好友"
+    },
+    "submittedAtTime": {
+        "message": "在 subreddit 管理器中显示 \"FRIENDS \"链接。",
+        "description": "[帖子/评论] [在 $time] 提交"
+    },
+    "submittedByAuthor": {
+        "message": "链接模式",
+        "description": "[帖子/评论提交......] 由 $username 提交"
+    },
+    "submittedToSubreddit": {
+        "message": "在 subreddit 管理器中显示 \"MOD \"链接。",
+        "description": "[帖子/评论提交...]到 $subreddit"
+    },
+    "faviconUseLegacyTitle": {
+        "message": "链接 Modqueue"
+    },
+    "faviconUseLegacyDesc": {
+        "message": "在子红人管理器中显示 \"MODQUEUE \"链接。"
+    },
+    "quarantineHideName": {
+        "message": "链接保存"
+    },
+    "quarantineHideDesc": {
+        "message": "在子红人管理器中显示 \"SAVED \"链接。"
+    },
+    "quarantineHideFlairTitle": {
+        "message": "编辑 \"按钮"
+    },
+    "quarantineHideFlairDesc": {
+        "message": "在子红帖管理器中显示 \"编辑 \"按钮。"
+    },
+    "quarantineHideInSubTitle": {
+        "message": "最后更新"
+    },
+    "quarantineHideInSubDesc": {
+        "message": "在首页显示上次更新信息（只有当你至少有 50/100 个订阅时才有效，[参见此处](/r/help/wiki/faq#wiki_some_of_my_subreddits_keep_disappearing.__why.3F) 获取更多信息）。"
+    }
+}
